@@ -102,3 +102,13 @@
 [05Apr2025 22:39:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
 [05Apr2025 22:39:10.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
 [05Apr2025 22:39:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[05Apr2025 22:44:28.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Apr2025 22:44:28.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Apr2025 22:44:28.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Apr2025 22:44:29.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Apr2025 22:44:31.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Apr2025 22:44:31.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Apr2025 22:44:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Apr2025 22:44:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Apr2025 22:44:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Apr2025 22:44:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
