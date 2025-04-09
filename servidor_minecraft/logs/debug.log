@@ -7050,3 +7050,39 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [09Apr2025 23:41:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
 [09Apr2025 23:42:15.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Apr2025 23:42:15.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 23:43:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[09Apr2025 23:43:18.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[09Apr2025 23:43:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:43:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:43:19.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:44:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[09Apr2025 23:45:20.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Rotten to the Core]
+[09Apr2025 23:46:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[09Apr2025 23:46:56.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vlastimila'/56224, l='ServerLevel[world]', x=26.31, y=65.92, z=-202.66] died, message: 'Vlastimila was slain by Johan'
+[09Apr2025 23:46:56.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vlastimila'/56224, l='ServerLevel[world]', x=26.31, y=65.92, z=-202.66] died: Vlastimila was slain by Johan
+[09Apr2025 23:47:15.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 23:47:15.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 23:47:23.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:48:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 384.500000, 81.500000, -872.500000]
+[09Apr2025 23:48:06.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 351.500000, 83.500000, -940.500000]
+[09Apr2025 23:48:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 339.500000, 69.500000, -1031.500000]
+[09Apr2025 23:48:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 313.500000, 81.500000, -1084.500000]
+[09Apr2025 23:48:40.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[09Apr2025 23:48:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 202.500000, 73.500000, -1209.500000]
+[09Apr2025 23:48:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 182.500000, 72.500000, -1259.500000]
+[09Apr2025 23:48:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 117.500000, 79.500000, -1340.500000]
+[09Apr2025 23:49:00.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[09Apr2025 23:49:20.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 176.500000, 84.500000, -1400.500000]
+[09Apr2025 23:49:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 96.500000, 68.500000, -1527.500000]
+[09Apr2025 23:50:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Fire Dragon
+[09Apr2025 23:50:18.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 101.500000, 68.500000, -1542.500000]
+[09Apr2025 23:50:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[09Apr2025 23:50:29.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:51:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Killed paco]
+[09Apr2025 23:51:41.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> wua wua wua wua wua wua wua wua wua
+[09Apr2025 23:51:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
+[09Apr2025 23:52:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> una excusa para volver con su ex
+[09Apr2025 23:52:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que triste
+[09Apr2025 23:52:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> superal
+[09Apr2025 23:52:15.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 23:52:15.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
