@@ -2743,6 +2743,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-09 22:33:17 +0000",
+      "sweet_berries": "2025-04-09 22:56:45 +0000",
       "cooked_beef": "2025-04-09 21:46:40 +0000"
     },
     "done": false
@@ -3428,6 +3429,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-09 22:33:28 +0000",
+      "minecraft:spider": "2025-04-09 22:50:05 +0000",
       "minecraft:creeper": "2025-04-09 22:10:41 +0000",
       "minecraft:silverfish": "2025-04-09 22:11:38 +0000",
       "minecraft:zombie": "2025-04-09 22:09:06 +0000"
@@ -3524,6 +3526,30 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-09 22:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-04-09 22:54:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-09 22:45:01 +0000"
@@ -3548,15 +3574,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-09 22:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-04-09 22:41:58 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-09 22:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-09 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-09 22:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-09 22:50:06 +0000"
     },
     "done": true
   },
@@ -3572,9 +3640,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-09 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-04-09 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-09 22:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-09 22:50:20 +0000"
     },
     "done": true
   },

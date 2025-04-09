@@ -6770,3 +6770,18 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [09Apr2025 22:47:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
 [09Apr2025 22:50:39.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -12.500000, 77.500000, -298.500000]
 [09Apr2025 22:50:51.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 139.500000, 71.500000, -458.500000]
+[09Apr2025 22:51:47.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[09Apr2025 22:52:15.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 22:52:15.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 22:52:55.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[09Apr2025 22:52:55.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 22:52:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 22:52:56.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 22:53:08.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> ZZZZZZZZZ
+[09Apr2025 22:53:13.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zçz
+[09Apr2025 22:53:14.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 22:53:14.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 22:53:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan drowned
+[09Apr2025 22:53:44.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[09Apr2025 22:57:15.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 22:57:15.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
