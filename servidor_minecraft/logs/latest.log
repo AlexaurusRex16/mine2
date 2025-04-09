@@ -744,3 +744,44 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [09Apr2025 23:11:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [09Apr2025 23:11:57.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [09Apr2025 23:11:58.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:12:01.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:12:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:12:02.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:12:04.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[09Apr2025 23:12:04.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[09Apr2025 23:12:09.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:46465] logged in with entity id 53219 at (74.1808960595484, -18.0, -514.4515798280285)
+[09Apr2025 23:12:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[09Apr2025 23:12:09.978] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[09Apr2025 23:12:32.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to paco]
+[09Apr2025 23:12:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Take Aim]
+[09Apr2025 23:12:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:17:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Johan
+[09Apr2025 23:18:58.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Crops of the Wild]
+[09Apr2025 23:23:16.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:23:25.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Who You Gonna Call?]
+[09Apr2025 23:23:54.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by paco
+[09Apr2025 23:24:02.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[09Apr2025 23:24:53.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was blown up by Creeper
+[09Apr2025 23:24:56.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:25:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que triste, simpeando mientras morimos
+[09Apr2025 23:25:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Killed paco]
+[09Apr2025 23:25:34.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que triste, simpeando mientras morimos
+[09Apr2025 23:25:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was killed
+[09Apr2025 23:25:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Killed paco]
+[09Apr2025 23:25:38.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:25:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[09Apr2025 23:26:52.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[09Apr2025 23:27:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:30:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[09Apr2025 23:30:27.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[09Apr2025 23:30:27.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:28.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:28.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:28.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:28.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[09Apr2025 23:30:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[09Apr2025 23:30:35.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzzzçç
+[09Apr2025 23:31:00.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by paco
+[09Apr2025 23:31:03.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
