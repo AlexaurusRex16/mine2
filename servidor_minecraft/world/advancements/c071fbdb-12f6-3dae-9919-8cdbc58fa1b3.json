@@ -87,6 +87,7 @@
     "criteria": {
       "minecraft:frozen_river": "2025-04-09 22:32:32 +0000",
       "minecraft:river": "2025-04-09 21:25:41 +0000",
+      "minecraft:dripstone_caves": "2025-04-09 23:02:01 +0000",
       "minecraft:forest": "2025-04-09 21:35:05 +0000",
       "minecraft:plains": "2025-04-09 21:30:30 +0000"
     },
@@ -190,6 +191,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-09 22:59:41 +0000",
       "cooked_mutton": "2025-04-09 22:54:50 +0000",
       "cooked_beef": "2025-04-09 22:46:45 +0000",
       "baked_potato": "2025-04-09 21:40:11 +0000",
@@ -3289,6 +3291,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-09 23:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 22:11:44 +0000"
@@ -3328,6 +3336,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-09 22:49:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-09 22:58:47 +0000"
     },
     "done": true
   },
@@ -3481,6 +3495,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-09 22:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-09 22:46:25 +0000"
@@ -3496,6 +3516,18 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-04-09 22:40:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-09 22:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-09 22:58:47 +0000"
     },
     "done": true
   },
@@ -3571,6 +3603,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 22:58:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2025-04-09 22:49:24 +0000"
@@ -3601,6 +3639,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-09 22:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-09 22:49:22 +0000"
@@ -3610,6 +3654,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-04-09 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-09 23:02:36 +0000"
     },
     "done": true
   },
@@ -3640,6 +3690,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-09 22:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-09 22:58:47 +0000"
     },
     "done": true
   },
