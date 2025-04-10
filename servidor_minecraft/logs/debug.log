@@ -7086,3 +7086,52 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [09Apr2025 23:52:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> superal
 [09Apr2025 23:52:15.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Apr2025 23:52:15.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 23:52:59.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[09Apr2025 23:54:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> mood: depresed
+[09Apr2025 23:54:54.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Friendship Found]
+[09Apr2025 23:54:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> es una interesada
+[09Apr2025 23:55:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> -86 hearts
+[09Apr2025 23:56:33.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan burned to death
+[09Apr2025 23:56:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[09Apr2025 23:57:15.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Apr2025 23:57:15.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Apr2025 23:57:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> NTR
+[09Apr2025 23:58:22.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que triste
+[09Apr2025 23:58:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> ROLEANDO CON UNA MUJER
+[10Apr2025 00:00:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> cerramos server ya?
+[10Apr2025 00:00:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> o te muteas
+[10Apr2025 00:00:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzçzzçzçzçzzz
+[10Apr2025 00:01:27.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was squished too much
+[10Apr2025 00:01:56.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
+[10Apr2025 00:02:15.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:02:15.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:02:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[10Apr2025 00:02:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
+[10Apr2025 00:03:03.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> si vas a quedarte en esta casa, será bajo mis reglas
+[10Apr2025 00:03:07.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> limpia
+[10Apr2025 00:07:15.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:07:15.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:08:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
+[10Apr2025 00:09:32.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bohumil'/75541, l='ServerLevel[world]', x=156.70, y=63.00, z=-431.30] died, message: 'Bohumil was slain by paco'
+[10Apr2025 00:09:32.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bohumil'/75541, l='ServerLevel[world]', x=156.70, y=63.00, z=-431.30] died: Bohumil was slain by paco
+[10Apr2025 00:09:39.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[10Apr2025 00:10:04.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> lesbiana
+[10Apr2025 00:12:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 00:12:15.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:12:15.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:12:32.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by AlexaurusRex16
+[10Apr2025 00:12:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:13:20.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> nno abrir puert
+[10Apr2025 00:14:55.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que triste hemos sustituido al marcel con una puta llorona
+[10Apr2025 00:14:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> especialito tiene contacto femenino
+[10Apr2025 00:16:07.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 26.500000, 64.500000, 163.500000]
+[10Apr2025 00:16:20.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:17:15.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:17:15.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:18:56.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> como no te vea trabajando, el alquiler será caro
+[10Apr2025 00:19:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has completed the challenge [Hunted]
+[10Apr2025 00:19:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was shot by Pillager
+[10Apr2025 00:19:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vindicator
+[10Apr2025 00:21:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was shot by Pillager
+[10Apr2025 00:22:15.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:22:15.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
