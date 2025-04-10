@@ -3654,7 +3654,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-04-09 22:54:17 +0000",
-      "potato": "2025-04-10 00:12:34 +0000"
+      "potato": "2025-04-10 00:12:34 +0000",
+      "wheat": "2025-04-10 20:23:26 +0000"
     },
     "done": false
   },
@@ -4189,6 +4190,12 @@
   "mca:recipes/misc/civil_registry": {
     "criteria": {
       "has_item": "2025-04-10 00:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-10 20:23:26 +0000"
     },
     "done": true
   },
