@@ -5276,3 +5276,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 20:45:49.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Cover Me with Diamonds]
 [10Apr2025 20:47:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
 [10Apr2025 20:49:12.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> a durmir
+[10Apr2025 20:49:24.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[10Apr2025 20:49:33.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:49:33.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:49:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:49:34.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:49:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:49:35.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> mimimimiii
+[10Apr2025 20:49:38.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 20:49:38.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 20:54:38.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 20:54:38.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 20:55:36.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 20:55:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 20:58:54.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported AlexaurusRex16 to paco]

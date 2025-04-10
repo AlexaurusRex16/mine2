@@ -3436,6 +3436,7 @@
       "minecraft:skeleton": "2025-04-09 22:33:28 +0000",
       "minecraft:spider": "2025-04-09 22:50:05 +0000",
       "minecraft:creeper": "2025-04-09 22:10:41 +0000",
+      "minecraft:cave_spider": "2025-04-10 20:46:02 +0000",
       "minecraft:silverfish": "2025-04-09 22:11:38 +0000",
       "minecraft:zombie": "2025-04-09 22:09:06 +0000"
     },
@@ -4202,6 +4203,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-10 20:23:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-10 20:44:42 +0000"
     },
     "done": true
   },
