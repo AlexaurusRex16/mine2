@@ -42,3 +42,18 @@
 [10Apr2025 00:32:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
 [10Apr2025 00:32:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [10Apr2025 00:32:36.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[10Apr2025 00:33:39.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[10Apr2025 00:34:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[10Apr2025 00:34:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 00:34:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 fell from a high place
+[10Apr2025 00:34:32.650] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AlexaurusRex16 with unique ID travelersbackpack.wolf_10.04.2025-00.34.32.dat
+[10Apr2025 00:34:32.651] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 209 Y: -11.0 Z: -75
+[10Apr2025 00:34:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has completed the challenge [Hunted]
+[10Apr2025 00:34:42.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[10Apr2025 00:35:12.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> tp
+[10Apr2025 00:35:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> pt4
+[10Apr2025 00:35:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:37:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Isn't It Iron Pick]
+[10Apr2025 00:39:17.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[10Apr2025 00:42:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 00:42:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
