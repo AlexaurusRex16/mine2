@@ -7200,3 +7200,23 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 00:52:58.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by paco
 [10Apr2025 00:53:00.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
 [10Apr2025 00:53:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[10Apr2025 00:53:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:53:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 00:56:41.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 00:57:15.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:57:15.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 01:00:08.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 01:00:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 01:00:08.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 01:00:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 01:00:21.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arnoštka'/44929, l='ServerLevel[world]', x=134.69, y=76.00, z=26.27] died, message: 'Arnoštka (Staying) was slain by paco'
+[10Apr2025 01:00:39.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[10Apr2025 01:00:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[10Apr2025 01:02:15.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 01:02:15.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 01:02:47.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bohuslava'/86942, l='ServerLevel[world]', x=128.84, y=76.00, z=25.30] died, message: 'Bohuslava (Staying) was slain by Johan'
+[10Apr2025 01:02:47.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bohuslava'/86942, l='ServerLevel[world]', x=128.84, y=76.00, z=25.30] died: Bohuslava (Staying) was slain by Johan
+[10Apr2025 01:03:15.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[10Apr2025 01:03:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[10Apr2025 01:03:17.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[10Apr2025 01:03:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
