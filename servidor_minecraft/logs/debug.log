@@ -4935,3 +4935,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 14:26:43.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Apr2025 14:27:23.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _crab lost connection: Disconnected
 [10Apr2025 14:27:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab left the game
+[10Apr2025 14:31:43.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:31:43.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 14:36:43.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 14:36:43.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
