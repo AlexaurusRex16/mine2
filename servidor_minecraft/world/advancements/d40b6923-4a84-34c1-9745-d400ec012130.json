@@ -76,14 +76,20 @@
       "minecraft:frozen_river": "2025-04-09 22:04:18 +0000",
       "minecraft:birch_forest": "2025-04-09 23:22:06 +0000",
       "minecraft:windswept_hills": "2025-04-09 22:25:24 +0000",
+      "minecraft:bamboo_jungle": "2025-04-10 21:03:31 +0000",
       "minecraft:beach": "2025-04-09 21:39:26 +0000",
+      "minecraft:sparse_jungle": "2025-04-10 20:58:32 +0000",
       "minecraft:river": "2025-04-09 21:27:33 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-10 21:44:18 +0000",
       "minecraft:snowy_taiga": "2025-04-09 22:13:03 +0000",
       "minecraft:cold_ocean": "2025-04-09 21:50:30 +0000",
       "minecraft:forest": "2025-04-09 21:35:01 +0000",
+      "minecraft:lush_caves": "2025-04-10 20:59:53 +0000",
       "minecraft:frozen_ocean": "2025-04-09 22:01:13 +0000",
       "minecraft:ocean": "2025-04-09 21:41:35 +0000",
+      "minecraft:jungle": "2025-04-10 21:48:52 +0000",
       "minecraft:windswept_savanna": "2025-04-09 21:39:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-10 21:34:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-09 22:02:09 +0000",
       "minecraft:plains": "2025-04-09 21:38:58 +0000"
     },
@@ -2747,8 +2753,10 @@
       "cooked_mutton": "2025-04-09 22:33:17 +0000",
       "sweet_berries": "2025-04-09 22:56:45 +0000",
       "cooked_beef": "2025-04-09 21:46:40 +0000",
+      "baked_potato": "2025-04-10 21:53:15 +0000",
       "mutton": "2025-04-09 23:24:33 +0000",
       "glow_berries": "2025-04-10 00:43:43 +0000",
+      "melon_slice": "2025-04-10 21:07:00 +0000",
       "carrot": "2025-04-09 23:21:01 +0000"
     },
     "done": false
@@ -3438,7 +3446,8 @@
       "minecraft:creeper": "2025-04-09 22:10:41 +0000",
       "minecraft:cave_spider": "2025-04-10 20:46:02 +0000",
       "minecraft:silverfish": "2025-04-09 22:11:38 +0000",
-      "minecraft:zombie": "2025-04-09 22:09:06 +0000"
+      "minecraft:zombie": "2025-04-09 22:09:06 +0000",
+      "minecraft:drowned": "2025-04-10 21:36:33 +0000"
     },
     "done": false
   },
@@ -4194,21 +4203,177 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/skeleton": {
-    "criteria": {
-      "has_arrow": "2025-04-10 20:38:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-10 20:23:26 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-10 20:38:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-04-10 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-10 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-10 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-10 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-10 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-10 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-04-10 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-10 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-10 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-04-10 21:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-10 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-10 21:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-10 21:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-10 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-10 21:38:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-04-10 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-04-10 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-10 21:38:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-10 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-10 21:38:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-04-10 21:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-10 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-04-10 21:10:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-04-10 21:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-10 21:20:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-10 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-10 21:20:30 +0000"
     },
     "done": true
   },
