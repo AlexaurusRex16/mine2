@@ -441,3 +441,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 14:13:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has completed the challenge [It Spreads]
 [10Apr2025 14:13:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -171.500000, 1.500000, 80.500000]
 [10Apr2025 14:13:47.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to 134.500000, 77.500000, 18.500000]
+[10Apr2025 14:24:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -171.500000, 1.500000, 80.500000]
+[10Apr2025 14:24:30.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [Hunt and Gather]
+[10Apr2025 14:27:23.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _crab lost connection: Disconnected
+[10Apr2025 14:27:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab left the game
