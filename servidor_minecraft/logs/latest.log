@@ -434,3 +434,32 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 20:20:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [10Apr2025 20:23:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [A Seedy Place]
 [10Apr2025 20:26:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 213.500000, -8.500000, -68.500000]
+[10Apr2025 20:30:00.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:42903] logged in with entity id 2790 at (134.3990978183715, 77.0, 23.892919520050782)
+[10Apr2025 20:30:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[10Apr2025 20:30:01.015] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[10Apr2025 20:30:15.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> hola
+[10Apr2025 20:30:15.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 20:30:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> no me deja usar discord
+[10Apr2025 20:32:55.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[10Apr2025 20:36:06.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 20:36:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 20:36:33.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:36:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[10Apr2025 20:36:33.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:36:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[10Apr2025 20:36:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 137.500000, 78.500000, -24.500000]
+[10Apr2025 20:36:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> zzz
+[10Apr2025 20:36:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> zz
+[10Apr2025 20:36:57.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzz
+[10Apr2025 20:37:11.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 20:37:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[10Apr2025 20:38:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[10Apr2025 20:40:35.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco fell from a high place
+[10Apr2025 20:40:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 220.500000, -52.500000, 105.500000]
+[10Apr2025 20:42:33.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 20:42:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 20:43:27.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[10Apr2025 20:43:59.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 20:45:49.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Cover Me with Diamonds]
+[10Apr2025 20:47:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[10Apr2025 20:49:12.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> a durmir
