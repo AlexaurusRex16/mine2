@@ -436,3 +436,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 13:43:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to 10.500000, 58.500000, -10.500000]
 [10Apr2025 13:46:41.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -171.500000, 1.500000, 80.500000]
 [10Apr2025 13:50:59.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [Suit Up]
+[10Apr2025 14:12:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [Sneak 100]
+[10Apr2025 14:13:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [Not Today, Thank You]
+[10Apr2025 14:13:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has completed the challenge [It Spreads]
+[10Apr2025 14:13:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -171.500000, 1.500000, 80.500000]
+[10Apr2025 14:13:47.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to 134.500000, 77.500000, 18.500000]
