@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-10 00:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-04-09 21:51:25 +0000"
@@ -675,6 +681,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-10 00:19:46 +0000",
       "minecraft:skeleton": "2025-04-09 22:12:09 +0000",
+      "minecraft:vindicator": "2025-04-10 00:48:47 +0000",
       "minecraft:spider": "2025-04-09 21:29:02 +0000",
       "minecraft:slime": "2025-04-09 21:51:00 +0000",
       "minecraft:enderman": "2025-04-09 23:14:16 +0000",
@@ -978,6 +985,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-04-10 00:49:21 +0000",
       "sweet_berries": "2025-04-09 23:20:25 +0000",
       "tomato": "2025-04-09 23:17:10 +0000"
     },
@@ -1022,6 +1030,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-04-09 21:31:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-10 00:49:54 +0000"
     },
     "done": true
   },
@@ -1430,6 +1444,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 21:35:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-04-10 00:42:36 +0000"
     },
     "done": true
   },
@@ -2120,6 +2140,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 21:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-10 00:49:48 +0000"
     },
     "done": true
   },
@@ -2843,9 +2869,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 00:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-09 21:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-10 00:49:54 +0000"
     },
     "done": true
   },
@@ -2882,6 +2920,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-09 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/rose_gold_block": {
+    "criteria": {
+      "has_item": "2025-04-10 00:42:36 +0000"
     },
     "done": true
   },
@@ -3533,6 +3577,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/villager_tracker": {
+    "criteria": {
+      "has_item": "2025-04-10 00:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-09 21:36:04 +0000"
@@ -3900,6 +3950,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-04-09 21:31:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/civil_registry": {
+    "criteria": {
+      "has_item": "2025-04-10 00:42:36 +0000"
     },
     "done": true
   },

@@ -2748,6 +2748,7 @@
       "sweet_berries": "2025-04-09 22:56:45 +0000",
       "cooked_beef": "2025-04-09 21:46:40 +0000",
       "mutton": "2025-04-09 23:24:33 +0000",
+      "glow_berries": "2025-04-10 00:43:43 +0000",
       "carrot": "2025-04-09 23:21:01 +0000"
     },
     "done": false
@@ -3566,6 +3567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-10 00:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-10 00:39:20 +0000"
@@ -3657,6 +3664,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-10 00:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-10 00:39:20 +0000"
@@ -3714,6 +3727,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:40:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-10 00:46:41 +0000"
     },
     "done": true
   },
@@ -3780,6 +3799,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-10 00:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-10 00:49:53 +0000"
     },
     "done": true
   },
@@ -3900,6 +3925,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-09 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-10 00:46:00 +0000"
     },
     "done": true
   },

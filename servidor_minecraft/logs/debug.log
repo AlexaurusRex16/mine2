@@ -7175,3 +7175,28 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 00:42:15.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 00:42:15.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Apr2025 00:42:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:44:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> os confiais de las mujeres y luego os sorprende que os abandonen
+[10Apr2025 00:44:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 137.500000, 71.500000, -483.500000]
+[10Apr2025 00:44:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
+[10Apr2025 00:45:49.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[10Apr2025 00:46:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[10Apr2025 00:46:41.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Book of Monsters]
+[10Apr2025 00:47:15.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:47:15.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:47:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[10Apr2025 00:47:47.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[10Apr2025 00:48:03.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:48:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[10Apr2025 00:49:23.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> este server como maximo le apuesto 4 dias
+[10Apr2025 00:49:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> 2 elevado a 2
+[10Apr2025 00:49:53.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 28.500000, 66.500000, 194.500000]
+[10Apr2025 00:50:12.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[10Apr2025 00:50:24.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:51:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[10Apr2025 00:51:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[10Apr2025 00:52:15.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:52:15.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:52:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[10Apr2025 00:52:58.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by paco
+[10Apr2025 00:53:00.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[10Apr2025 00:53:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
