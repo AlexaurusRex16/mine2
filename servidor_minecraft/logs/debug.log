@@ -4883,3 +4883,458 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [11Apr2025 19:11:52.855] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
 [11Apr2025 19:11:52.940] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x46963c5228b665e3
 [11Apr2025 19:11:53.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/132, l='ServerLevel[world]', x=192.25, y=62.80, z=35.70]
+[11Apr2025 19:14:59.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:14:59.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:18:45.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:19:59.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:19:59.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:20:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 544.500000, 68.500000, 2811.500000]
+[11Apr2025 19:20:19.058] [Worker-Main-52/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Apr2025 19:20:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -277.500000, 63.500000, 3045.500000]
+[11Apr2025 19:21:36.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has reached the goal [Ice Scream]
+[11Apr2025 19:24:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -473.500000, 63.500000, 3235.500000]
+[11Apr2025 19:24:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -668.500000, 68.500000, 3563.500000]
+[11Apr2025 19:24:59.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:24:59.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:25:19.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -611.500000, 66.500000, 3769.500000]
+[11Apr2025 19:25:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -729.500000, 64.500000, 3882.500000]
+[11Apr2025 19:29:59.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:29:59.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:30:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco fell from a high place
+[11Apr2025 19:30:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -821.500000, -52.500000, 4110.500000]
+[11Apr2025 19:31:42.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -853.500000, 66.500000, 4310.500000]
+[11Apr2025 19:34:59.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:34:59.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.551] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:35:35.552] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:36:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -845.500000, 100.500000, 4183.500000]
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.374] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:08.375] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:27.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:36:32.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -852.500000, 100.500000, 4180.500000]
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.990] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.996] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.996] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.996] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.996] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.997] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.997] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.997] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.997] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:32.998] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:36:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:37:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -850.500000, 100.500000, 4183.500000]
+[11Apr2025 19:37:01.382] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.382] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.382] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.382] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.383] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.383] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.383] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:01.383] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.449] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:16.450] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:37:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -846.500000, 100.500000, 4182.500000]
+[11Apr2025 19:37:33.415] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:33.416] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.050] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:45.051] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:37:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -846.500000, 95.500000, 4181.500000]
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.862] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.863] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:37:59.864] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.538] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:38:00.539] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[11Apr2025 19:39:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1051.500000, 68.500000, 4140.500000]
+[11Apr2025 19:39:31.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[11Apr2025 19:39:31.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[11Apr2025 19:39:59.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:39:59.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:40:35.585] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[11Apr2025 19:40:35.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[11Apr2025 19:40:35.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[11Apr2025 19:40:35.648] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[11Apr2025 19:40:35.649] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[11Apr2025 19:40:35.649] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:35.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[11Apr2025 19:40:35.740] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [kuma_api, animation_overhaul, playeranimator, jei, kleeslabs, neat, waystones, epicfight, xaeroworldmap, citadel, alexsmobs, travelersbackpack, mixinextras, iceandfire, balm, terralith, carryon, sodiumoptionsapi, jeresources, puzzlesaccessapi, cloth_config, forge, sodiumdynamiclights, konkrete, embeddium, rubidium, corpse, minecraft, farmersdelight, fabric_api_base, necronomicon, jade, creativecore, cleanswing, xaerominimap, collective, dragonseeker, securitycraft, inventoryhud, architectury, mca, simplyswords, appleskin, alexsdelight, globalxp, refurbished_furniture, puzzleslib, justzoom, framework, dynamictrees, playerrevive, enchantinginfuser, scaffoldingdropsnearby]
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:1' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[11Apr2025 19:40:35.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kleeslabs:network' : Version test of '1.0' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Apr2025 19:40:35.742] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[11Apr2025 19:40:35.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[11Apr2025 19:40:35.788] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[11Apr2025 19:40:35.789] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:35.789] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:35.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[11Apr2025 19:40:35.838] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[11Apr2025 19:40:35.839] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:35.839] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:35.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[11Apr2025 19:40:35.896] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[11Apr2025 19:40:35.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[11Apr2025 19:40:35.976] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[11Apr2025 19:40:35.976] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:35.976] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:35.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[11Apr2025 19:40:35.997] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[11Apr2025 19:40:35.997] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:35.997] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.016] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[11Apr2025 19:40:36.016] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.016] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[11Apr2025 19:40:36.088] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[11Apr2025 19:40:36.088] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.088] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[11Apr2025 19:40:36.126] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[11Apr2025 19:40:36.126] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.126] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 11
+[11Apr2025 19:40:36.170] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[11Apr2025 19:40:36.170] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.170] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[11Apr2025 19:40:36.212] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[11Apr2025 19:40:36.212] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.212] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.246] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[11Apr2025 19:40:36.254] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[11Apr2025 19:40:36.254] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.254] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[11Apr2025 19:40:36.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[11Apr2025 19:40:36.338] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[11Apr2025 19:40:36.339] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.339] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[11Apr2025 19:40:36.396] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[11Apr2025 19:40:36.435] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[11Apr2025 19:40:36.435] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.435] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.446] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[11Apr2025 19:40:36.477] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[11Apr2025 19:40:36.477] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.477] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[11Apr2025 19:40:36.519] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[11Apr2025 19:40:36.519] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.519] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.546] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 19
+[11Apr2025 19:40:36.560] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[11Apr2025 19:40:36.561] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.561] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[11Apr2025 19:40:36.601] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[11Apr2025 19:40:36.602] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.602] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[11Apr2025 19:40:36.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.644] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[11Apr2025 19:40:36.689] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[11Apr2025 19:40:36.689] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.689] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[11Apr2025 19:40:36.739] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[11Apr2025 19:40:36.739] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.739] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 23
+[11Apr2025 19:40:36.789] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[11Apr2025 19:40:36.789] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:36.789] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:36.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 24
+[11Apr2025 19:40:36.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 25
+[11Apr2025 19:40:36.896] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config globalxp-server.toml' to 'fml:handshake' sequence 26
+[11Apr2025 19:40:36.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config travelersbackpack-server.toml' to 'fml:handshake' sequence 27
+[11Apr2025 19:40:36.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dynamictrees-server.toml' to 'fml:handshake' sequence 28
+[11Apr2025 19:40:37.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 29
+[11Apr2025 19:40:37.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 30
+[11Apr2025 19:40:37.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 31
+[11Apr2025 19:40:37.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 32
+[11Apr2025 19:40:37.763] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[11Apr2025 19:40:37.763] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.763] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[11Apr2025 19:40:37.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[11Apr2025 19:40:37.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Apr2025 19:40:37.804] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Apr2025 19:40:37.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[11Apr2025 19:40:37.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:54111] logged in with entity id 13480 at (-1069.666992744172, 68.0, 4137.751465524873)
+[11Apr2025 19:40:37.922] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7552c6bb into net.minecraft.network.Connection@79565c7a
+[11Apr2025 19:40:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[11Apr2025 19:40:37.949] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[11Apr2025 19:40:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1121.500000, 75.500000, 4003.500000]
+[11Apr2025 19:40:52.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1205.500000, 78.500000, 3932.500000]
+[11Apr2025 19:41:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1402.500000, 68.500000, 3977.500000]
+[11Apr2025 19:41:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1521.500000, 76.500000, 4070.500000]
+[11Apr2025 19:41:44.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1594.500000, 67.500000, 4157.500000]
+[11Apr2025 19:41:58.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1693.500000, 66.500000, 4280.500000]
+[11Apr2025 19:42:10.024] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1788, y=64, z=4456}
+[11Apr2025 19:42:10.024] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[11Apr2025 19:42:10.025] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[11Apr2025 19:42:10.025] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJOJOOP0+vXb9pJ8hJOePfS
+[11Apr2025 19:42:34.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1816.500000, 64.500000, 4333.500000]
+[11Apr2025 19:43:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1771.500000, 64.500000, 4335.500000]
+[11Apr2025 19:43:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1962.500000, 64.500000, 4372.500000]
+[11Apr2025 19:44:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2021.500000, 64.500000, 4411.500000]

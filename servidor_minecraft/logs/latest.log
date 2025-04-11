@@ -392,3 +392,76 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [11Apr2025 19:11:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
 [11Apr2025 19:11:52.855] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
 [11Apr2025 19:11:53.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/132, l='ServerLevel[world]', x=192.25, y=62.80, z=35.70]
+[11Apr2025 19:18:45.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:18:45.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[11Apr2025 19:20:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 544.500000, 68.500000, 2811.500000]
+[11Apr2025 19:20:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -277.500000, 63.500000, 3045.500000]
+[11Apr2025 19:21:36.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has reached the goal [Ice Scream]
+[11Apr2025 19:24:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -473.500000, 63.500000, 3235.500000]
+[11Apr2025 19:24:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -668.500000, 68.500000, 3563.500000]
+[11Apr2025 19:25:19.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -611.500000, 66.500000, 3769.500000]
+[11Apr2025 19:25:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -729.500000, 64.500000, 3882.500000]
+[11Apr2025 19:30:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco fell from a high place
+[11Apr2025 19:30:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -821.500000, -52.500000, 4110.500000]
+[11Apr2025 19:31:42.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -853.500000, 66.500000, 4310.500000]
+[11Apr2025 19:36:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:36:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -845.500000, 100.500000, 4183.500000]
+[11Apr2025 19:36:27.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:36:32.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -852.500000, 100.500000, 4180.500000]
+[11Apr2025 19:36:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:37:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -850.500000, 100.500000, 4183.500000]
+[11Apr2025 19:37:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:37:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -846.500000, 100.500000, 4182.500000]
+[11Apr2025 19:37:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Vex
+[11Apr2025 19:37:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -846.500000, 95.500000, 4181.500000]
+[11Apr2025 19:39:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1051.500000, 68.500000, 4140.500000]
+[11Apr2025 19:39:31.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[11Apr2025 19:39:31.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[11Apr2025 19:40:37.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:54111] logged in with entity id 13480 at (-1069.666992744172, 68.0, 4137.751465524873)
+[11Apr2025 19:40:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[11Apr2025 19:40:37.949] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[11Apr2025 19:40:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1121.500000, 75.500000, 4003.500000]
+[11Apr2025 19:40:52.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1205.500000, 78.500000, 3932.500000]
+[11Apr2025 19:41:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1402.500000, 68.500000, 3977.500000]
+[11Apr2025 19:41:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1521.500000, 76.500000, 4070.500000]
+[11Apr2025 19:41:44.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1594.500000, 67.500000, 4157.500000]
+[11Apr2025 19:41:58.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1693.500000, 66.500000, 4280.500000]
+[11Apr2025 19:42:34.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1816.500000, 64.500000, 4333.500000]
+[11Apr2025 19:43:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1771.500000, 64.500000, 4335.500000]
+[11Apr2025 19:43:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1962.500000, 64.500000, 4372.500000]
+[11Apr2025 19:44:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2021.500000, 64.500000, 4411.500000]
