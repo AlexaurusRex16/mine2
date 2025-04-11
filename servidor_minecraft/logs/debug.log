@@ -5338,3 +5338,114 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [11Apr2025 19:43:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1771.500000, 64.500000, 4335.500000]
 [11Apr2025 19:43:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1962.500000, 64.500000, 4372.500000]
 [11Apr2025 19:44:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2021.500000, 64.500000, 4411.500000]
+[11Apr2025 19:44:59.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:44:59.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:45:20.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 194.500000, 11.500000, 152.500000]
+[11Apr2025 19:45:23.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[11Apr2025 19:49:59.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:49:59.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:51:06.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1942.500000, 63.500000, 4561.500000]
+[11Apr2025 19:51:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1996.500000, 69.500000, 4648.500000]
+[11Apr2025 19:51:29.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1970.500000, 84.500000, 4772.500000]
+[11Apr2025 19:51:45.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2016.500000, 87.500000, 4927.500000]
+[11Apr2025 19:52:09.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2174.500000, 83.500000, 4958.500000]
+[11Apr2025 19:52:25.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2242.500000, 67.500000, 5018.500000]
+[11Apr2025 19:53:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2062.500000, 60.500000, 5100.500000]
+[11Apr2025 19:53:29.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2148.500000, 75.500000, 5088.500000]
+[11Apr2025 19:53:36.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2264.500000, 86.500000, 5139.500000]
+[11Apr2025 19:53:46.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2387.500000, 81.500000, 5247.500000]
+[11Apr2025 19:54:59.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:54:59.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 19:55:20.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2563.500000, 95.500000, 5478.500000]
+[11Apr2025 19:55:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2697.500000, 96.500000, 5570.500000]
+[11Apr2025 19:56:00.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2706.500000, 136.500000, 5635.500000]
+[11Apr2025 19:56:14.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2819.500000, 89.500000, 5644.500000]
+[11Apr2025 19:57:02.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3071.500000, 123.500000, 5729.500000]
+[11Apr2025 19:57:08.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2975.500000, 92.500000, 5734.500000]
+[11Apr2025 19:57:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was energized by a dragon
+[11Apr2025 19:57:29.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2975.500000, 92.500000, 5735.500000]
+[11Apr2025 19:57:35.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3100.500000, 114.500000, 5819.500000]
+[11Apr2025 19:57:46.266] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-3299, y=93, z=5890}
+[11Apr2025 19:57:46.266] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[11Apr2025 19:57:46.266] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[11Apr2025 19:57:46.267] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOOJxOOXz896RPtJPeZJOPvhJJ8hJOJ6
+[11Apr2025 19:58:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2272.500000, 74.500000, 5566.500000]
+[11Apr2025 19:58:09.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2203.500000, 123.500000, 5598.500000]
+[11Apr2025 19:58:48.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2154.500000, 115.500000, 5767.500000]
+[11Apr2025 19:59:16.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2093.500000, 95.500000, 5961.500000]
+[11Apr2025 19:59:26.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2268.500000, 114.500000, 5967.500000]
+[11Apr2025 19:59:54.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco fell from a high place
+[11Apr2025 19:59:59.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 19:59:59.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:00:00.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2363.500000, 83.500000, 5985.500000]
+[11Apr2025 20:00:47.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2238.500000, 63.500000, 6098.500000]
+[11Apr2025 20:01:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2342.500000, 107.500000, 6195.500000]
+[11Apr2025 20:01:22.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2396.500000, 107.500000, 6245.500000]
+[11Apr2025 20:02:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco fell from a high place
+[11Apr2025 20:03:02.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2724.500000, 63.500000, 6389.500000]
+[11Apr2025 20:03:08.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2665.500000, 89.500000, 6541.500000]
+[11Apr2025 20:03:29.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2493.500000, 124.500000, 6563.500000]
+[11Apr2025 20:04:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2625.500000, 68.500000, 6745.500000]
+[11Apr2025 20:04:10.109] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-2521, y=72, z=6923}
+[11Apr2025 20:04:10.109] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[11Apr2025 20:04:10.109] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[11Apr2025 20:04:10.109] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJOWPXzP0OOPy+fvj9uOPXb
+[11Apr2025 20:04:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2635.500000, 79.500000, 6851.500000]
+[11Apr2025 20:04:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -2780.500000, 71.500000, 6826.500000]
+[11Apr2025 20:04:54.015] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-2977, y=105, z=6925}
+[11Apr2025 20:04:54.015] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[11Apr2025 20:04:54.015] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[11Apr2025 20:04:54.015] [Worker-Main-67/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORLJx+XvtJOXePfkJJxx67f
+[11Apr2025 20:04:59.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:04:59.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:05:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3007.500000, 63.500000, 6784.500000]
+[11Apr2025 20:06:20.727] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-3091, y=64, z=6995}
+[11Apr2025 20:06:20.728] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[11Apr2025 20:06:20.728] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[11Apr2025 20:06:20.728] [Worker-Main-51/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[11Apr2025 20:06:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3003.500000, 63.500000, 6951.500000]
+[11Apr2025 20:06:42.955] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-3028, y=67, z=7120}
+[11Apr2025 20:06:42.956] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[11Apr2025 20:06:42.956] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[11Apr2025 20:06:42.956] [Worker-Main-90/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORLJx+XvtJOXePfkJJxx67f
+[11Apr2025 20:06:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3117.500000, 66.500000, 7024.500000]
+[11Apr2025 20:08:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3279.500000, 63.500000, 7180.500000]
+[11Apr2025 20:08:43.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3404.500000, 76.500000, 7296.500000]
+[11Apr2025 20:08:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 136.500000, 71.500000, -472.500000]
+[11Apr2025 20:09:15.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3413.500000, 81.500000, 7383.500000]
+[11Apr2025 20:09:49.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3432.500000, 68.500000, 7532.500000]
+[11Apr2025 20:09:59.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:09:59.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:10:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3543.500000, 67.500000, 7645.500000]
+[11Apr2025 20:10:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[11Apr2025 20:10:24.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was slain by Ice Dragon
+[11Apr2025 20:10:31.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 18.500000]
+[11Apr2025 20:10:40.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3669.500000, 67.500000, 7703.500000]
+[11Apr2025 20:10:46.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Aurelia'/34755, l='ServerLevel[world]', x=-3646.91, y=65.00, z=7706.20] died: Aurelia was slain by paco
+[11Apr2025 20:10:48.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Salvo'/34759, l='ServerLevel[world]', x=-3643.85, y=65.00, z=7705.50] died: Salvo was burnt to a crisp whilst fighting paco
+[11Apr2025 20:10:53.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Gennaro'/34770, l='ServerLevel[world]', x=-3626.51, y=66.00, z=7658.49] died: Gennaro burned to death
+[11Apr2025 20:10:54.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Cristina'/34765, l='ServerLevel[world]', x=-3655.17, y=66.00, z=7650.17] died: Cristina burned to death
+[11Apr2025 20:10:56.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Amilcare'/34761, l='ServerLevel[world]', x=-3650.84, y=67.00, z=7684.87] died: Amilcare burned to death
+[11Apr2025 20:10:57.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Giovanbattista'/34800, l='ServerLevel[world]', x=-3619.59, y=65.94, z=7655.19] died: Giovanbattista burned to death
+[11Apr2025 20:10:58.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Floris'/34775, l='ServerLevel[world]', x=-3618.42, y=66.00, z=7670.43] died: Floris burned to death
+[11Apr2025 20:10:59.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Crocifissa'/34768, l='ServerLevel[world]', x=-3646.52, y=68.00, z=7659.01] died: Crocifissa burned to death
+[11Apr2025 20:11:06.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Tito'/34764, l='ServerLevel[world]', x=-3657.23, y=67.00, z=7682.52] died: Tito was slain by paco
+[11Apr2025 20:11:14.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Santa'/34766, l='ServerLevel[world]', x=-3645.92, y=65.00, z=7657.74] died: Santa burned to death
+[11Apr2025 20:11:17.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Ezio'/34751, l='ServerLevel[world]', x=-3701.50, y=67.00, z=7667.20] died: Ezio burned to death
+[11Apr2025 20:11:25.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Atos'/34767, l='ServerLevel[world]', x=-3634.75, y=66.00, z=7660.18] died: Atos burned to death
+[11Apr2025 20:12:49.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3524.500000, 70.500000, 7762.500000]
+[11Apr2025 20:12:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3403.500000, 68.500000, 7819.500000]
+[11Apr2025 20:13:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3341.500000, 68.500000, 7938.500000]
+[11Apr2025 20:13:15.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3348.500000, 64.500000, 8055.500000]
+[11Apr2025 20:13:31.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3310.500000, 77.500000, 8224.500000]
+[11Apr2025 20:13:44.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3422.500000, 85.500000, 8352.500000]
+[11Apr2025 20:13:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3391.500000, 83.500000, 8405.500000]
+[11Apr2025 20:14:00.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3482.500000, 80.500000, 8482.500000]
+[11Apr2025 20:14:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3512.500000, 79.500000, 8533.500000]
+[11Apr2025 20:14:11.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3574.500000, 75.500000, 8607.500000]
+[11Apr2025 20:14:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3667.500000, 78.500000, 8737.500000]
+[11Apr2025 20:14:38.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3739.500000, 71.500000, 8811.500000]
+[11Apr2025 20:14:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3755.500000, 74.500000, 8830.500000]
+[11Apr2025 20:14:54.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3839.500000, 72.500000, 8896.500000]
+[11Apr2025 20:14:59.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:14:59.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
