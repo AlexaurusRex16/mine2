@@ -104,6 +104,7 @@
       "minecraft:ocean": "2025-04-10 21:41:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-10 22:03:49 +0000",
       "minecraft:snowy_beach": "2025-04-10 22:08:12 +0000",
+      "minecraft:windswept_savanna": "2025-04-12 19:12:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 21:57:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-10 21:34:46 +0000",
       "minecraft:meadow": "2025-04-11 19:57:35 +0000",
@@ -6256,9 +6257,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 19:17:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 19:17:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-04-12 18:33:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 19:17:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 19:17:14 +0000"
     },
     "done": true
   },
@@ -6283,6 +6308,12 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 18:33:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-12 19:17:14 +0000"
     },
     "done": true
   },

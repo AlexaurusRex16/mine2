@@ -5097,3 +5097,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Apr2025 19:07:46.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 19:07:46.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Apr2025 19:08:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[12Apr2025 19:09:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -279.500000, 209.500000, -1.500000]
+[12Apr2025 19:12:04.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -397.500000, 81.500000, 74.500000]
+[12Apr2025 19:12:46.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:12:46.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:13:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 71.500000, 81.500000, -696.500000]
+[12Apr2025 19:13:08.983] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[12Apr2025 19:13:40.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 19:14:43.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 113.500000, 12.500000, -669.500000]
+[12Apr2025 19:15:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 94.500000, 67.500000, -1526.500000]
+[12Apr2025 19:15:51.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 19:16:19.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 19:16:43.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 63.500000, 68.500000, -1516.500000]
+[12Apr2025 19:16:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 19:17:46.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:17:46.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:17:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -56.500000, 87.500000, -794.500000]
+[12Apr2025 19:18:13.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
