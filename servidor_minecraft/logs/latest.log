@@ -584,3 +584,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Apr2025 21:03:27.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -698.500000, 71.500000, -2903.500000]
 [12Apr2025 21:07:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
 [12Apr2025 21:07:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 21:11:58.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[12Apr2025 21:11:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[12Apr2025 21:12:35.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:39161] logged in with entity id 74220 at (130.68554561046884, 88.0, 22.183572962003627)
+[12Apr2025 21:12:35.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[12Apr2025 21:12:35.739] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[12Apr2025 21:17:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> pero es mujer
+[12Apr2025 21:21:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:04.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:16.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
