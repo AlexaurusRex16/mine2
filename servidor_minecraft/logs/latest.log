@@ -445,3 +445,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Apr2025 18:44:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
 [12Apr2025 18:47:53.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
 [12Apr2025 18:57:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 170.500000, 17.500000, -375.500000]
+[12Apr2025 19:08:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
