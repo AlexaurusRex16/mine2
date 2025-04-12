@@ -5705,6 +5705,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 19:25:26 +0000"
@@ -5855,6 +5861,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-12 23:37:56 +0000"
@@ -5891,6 +5909,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone": {
     "criteria": {
       "has_item": "2025-04-12 23:39:44 +0000"
@@ -5900,6 +5924,12 @@
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 19:41:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-04-12 23:44:24 +0000"
     },
     "done": true
   },
@@ -5993,6 +6023,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-04-12 19:36:47 +0000"
@@ -6017,6 +6053,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-04-12 19:31:38 +0000"
@@ -6035,9 +6077,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-04-12 22:39:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
     },
     "done": true
   },
@@ -6092,6 +6146,18 @@
   "iceandfire:recipes/combat/armor_bronze_boots": {
     "criteria": {
       "has_item": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-04-12 23:44:24 +0000"
     },
     "done": true
   },
@@ -6293,6 +6359,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-12 21:57:45 +0000"
@@ -6302,6 +6374,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-12 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 23:44:47 +0000"
     },
     "done": true
   },
@@ -6368,6 +6446,12 @@
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-12 23:44:24 +0000"
     },
     "done": true
   },
