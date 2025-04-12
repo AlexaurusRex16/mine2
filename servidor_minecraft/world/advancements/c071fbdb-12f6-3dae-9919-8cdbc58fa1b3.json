@@ -6226,5 +6226,23 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-04-12 18:20:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-04-12 18:21:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-04-12 18:22:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
