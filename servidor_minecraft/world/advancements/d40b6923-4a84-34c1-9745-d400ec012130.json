@@ -3442,6 +3442,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-12 21:52:15 +0000",
       "minecraft:skeleton": "2025-04-09 22:33:28 +0000",
       "minecraft:spider": "2025-04-09 22:50:05 +0000",
       "minecraft:creeper": "2025-04-09 22:10:41 +0000",
@@ -4573,6 +4574,24 @@
   "travelersbackpack:recipes/misc/emerald_smithing": {
     "criteria": {
       "has_emerald": "2025-04-12 21:20:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-12 21:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-12 21:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-12 21:32:49 +0000"
     },
     "done": true
   },
