@@ -4672,6 +4672,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-04-12 22:18:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2025-04-12 22:02:17 +0000"

@@ -6029,6 +6029,12 @@
     },
     "done": true
   },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-04-12 22:24:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-04-12 19:27:28 +0000"
