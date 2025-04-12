@@ -4570,5 +4570,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-04-12 21:20:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

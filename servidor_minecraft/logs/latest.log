@@ -594,3 +594,18 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Apr2025 21:21:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [12Apr2025 21:21:04.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [12Apr2025 21:21:16.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[12Apr2025 21:21:36.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:36.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzzzz
+[12Apr2025 21:21:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:37.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[12Apr2025 21:21:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[12Apr2025 21:21:46.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> ew
+[12Apr2025 21:25:21.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[12Apr2025 21:25:21.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[12Apr2025 21:29:38.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:33477] logged in with entity id 76619 at (133.90741233577768, 91.0, 7.096607744450927)
+[12Apr2025 21:29:38.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[12Apr2025 21:29:38.824] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
