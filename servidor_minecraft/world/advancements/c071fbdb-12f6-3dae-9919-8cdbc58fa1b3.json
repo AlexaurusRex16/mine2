@@ -6274,6 +6274,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-04-12 18:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 18:33:00 +0000"
