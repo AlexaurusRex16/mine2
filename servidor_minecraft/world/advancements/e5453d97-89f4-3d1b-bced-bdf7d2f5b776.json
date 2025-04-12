@@ -28,10 +28,12 @@
       "minecraft:river": "2025-04-09 21:25:46 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 21:44:24 +0000",
       "minecraft:dripstone_caves": "2025-04-09 23:04:39 +0000",
+      "minecraft:cold_ocean": "2025-04-12 20:18:36 +0000",
       "minecraft:forest": "2025-04-09 21:34:20 +0000",
       "minecraft:lush_caves": "2025-04-11 23:12:13 +0000",
       "minecraft:jungle": "2025-04-10 21:45:15 +0000",
       "minecraft:ocean": "2025-04-10 21:37:17 +0000",
+      "minecraft:windswept_savanna": "2025-04-12 20:16:44 +0000",
       "minecraft:savanna": "2025-04-12 19:24:58 +0000",
       "minecraft:plains": "2025-04-09 21:33:52 +0000"
     },
@@ -162,6 +164,7 @@
       "minecraft:witch": "2025-04-12 18:44:19 +0000",
       "minecraft:cave_spider": "2025-04-10 20:38:55 +0000",
       "minecraft:enderman": "2025-04-09 23:14:16 +0000",
+      "minecraft:stray": "2025-04-12 20:42:56 +0000",
       "minecraft:zombie": "2025-04-09 21:44:44 +0000"
     },
     "done": false
@@ -5657,6 +5660,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-04-12 20:44:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 19:25:26 +0000"
@@ -5675,15 +5684,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-12 18:23:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-12 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
     },
     "done": true
   },
@@ -5711,6 +5738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-04-12 19:29:09 +0000"
@@ -5735,6 +5768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 19:41:43 +0000"
@@ -5756,6 +5795,12 @@
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-04-12 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-04-12 20:43:05 +0000"
     },
     "done": true
   },
@@ -5849,15 +5894,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2025-04-12 19:31:38 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:46 +0000"
     },
     "done": true
   },
@@ -5870,6 +5939,12 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-12 20:19:33 +0000"
     },
     "done": true
   },
@@ -5891,6 +5966,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-04-12 20:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-12 19:20:57 +0000"
@@ -5906,6 +5999,12 @@
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-04-12 19:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 20:19:17 +0000"
     },
     "done": true
   },
@@ -5933,6 +6032,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-04-12 20:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-12 19:20:57 +0000"
@@ -5954,6 +6059,18 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 20:48:46 +0000"
     },
     "done": true
   },

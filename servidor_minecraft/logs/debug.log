@@ -5376,3 +5376,72 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Apr2025 20:03:47.939] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
 [12Apr2025 20:07:46.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 20:07:46.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:12:46.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:12:46.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:15:35.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[12Apr2025 20:15:40.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 70.500000, 103.500000, -1600.500000]
+[12Apr2025 20:16:53.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:17:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[12Apr2025 20:17:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:17:46.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:17:46.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:17:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[12Apr2025 20:19:33.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Mine? Mine? Mine?]
+[12Apr2025 20:20:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:20:35.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[12Apr2025 20:22:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Enchanter]
+[12Apr2025 20:22:46.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:22:46.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:24:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:24:24.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:25:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:26:08.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -438.500000, 68.500000, -2870.500000]
+[12Apr2025 20:26:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:27:46.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:27:46.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:27:54.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -600.500000, 74.500000, -2714.500000]
+[12Apr2025 20:28:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:29:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:31:27.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:32:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [My Name is Nobody]
+[12Apr2025 20:32:46.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:32:46.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:33:09.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -772.500000, 64.500000, -2594.500000]
+[12Apr2025 20:33:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Chompy]
+[12Apr2025 20:33:41.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -950.500000, 71.500000, -2639.500000]
+[12Apr2025 20:34:06.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:34:29.249] [Worker-Main-136/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-69, -150], pos: BlockPos{x=-1104, y=52, z=-2392}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12Apr2025 20:34:29.249] [Worker-Main-136/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-69, -150], pos: BlockPos{x=-1104, y=52, z=-2391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12Apr2025 20:34:29.250] [Worker-Main-136/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-69, -150], pos: BlockPos{x=-1104, y=52, z=-2387}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12Apr2025 20:36:14.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vasilija'/54683, l='ServerLevel[world]', x=-1325.01, y=77.94, z=-2407.26] died, message: 'Vasilija was turned to ice by Ice Dragon'
+[12Apr2025 20:36:16.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Slavica'/54694, l='ServerLevel[world]', x=-1315.41, y=78.00, z=-2403.49] died, message: 'Slavica was frozen by Ice Dragon'
+[12Apr2025 20:36:22.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Viki'/54701, l='ServerLevel[world]', x=-1302.55, y=80.94, z=-2391.49] died, message: 'Viki was frozen by Ice Dragon'
+[12Apr2025 20:36:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:36:25.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ksenija'/54777, l='ServerLevel[world]', x=-1304.20, y=80.50, z=-2389.82] died, message: 'Ksenija was turned to ice by Ice Dragon'
+[12Apr2025 20:36:28.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Slaviša'/54682, l='ServerLevel[world]', x=-1312.48, y=80.00, z=-2397.52] died, message: 'Slaviša was slain by Ice Dragon'
+[12Apr2025 20:37:46.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:37:46.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:39:17.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[12Apr2025 20:39:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1517.500000, 76.500000, -2690.500000]
+[12Apr2025 20:40:28.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1420.500000, 79.500000, -2258.500000]
+[12Apr2025 20:41:24.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1036.500000, 70.500000, -2807.500000]
+[12Apr2025 20:42:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:42:28.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 moved wrongly!
+[12Apr2025 20:42:46.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:42:46.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:43:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has reached the goal [Ice Scream]
+[12Apr2025 20:44:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1164.500000, 78.500000, -3133.500000]
+[12Apr2025 20:45:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1254.500000, 64.500000, -3187.500000]
+[12Apr2025 20:45:26.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[12Apr2025 20:47:00.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1464.500000, 63.500000, -3279.500000]
+[12Apr2025 20:47:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1441.500000, 64.500000, -3441.500000]
+[12Apr2025 20:47:46.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:47:46.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:48:04.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[12Apr2025 20:50:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[12Apr2025 20:52:46.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:52:46.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:53:39.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1902.500000, 79.500000, -3123.500000]
+[12Apr2025 20:55:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[12Apr2025 20:57:46.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:57:46.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
