@@ -31,6 +31,7 @@
       "minecraft:lush_caves": "2025-04-11 23:12:13 +0000",
       "minecraft:jungle": "2025-04-10 21:45:15 +0000",
       "minecraft:ocean": "2025-04-10 21:37:17 +0000",
+      "minecraft:savanna": "2025-04-12 19:24:58 +0000",
       "minecraft:plains": "2025-04-09 21:33:52 +0000"
     },
     "done": false
@@ -5649,6 +5650,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 19:18:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-12 18:23:16 +0000"
@@ -5673,6 +5686,48 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-04-12 19:22:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-04-12 19:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 18:23:30 +0000"
@@ -5682,6 +5737,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-12 18:23:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 19:18:54 +0000"
     },
     "done": true
   },
@@ -5703,9 +5764,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 19:18:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 19:18:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-12 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-12 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-04-12 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 19:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-12 19:20:57 +0000"
     },
     "done": true
   },
