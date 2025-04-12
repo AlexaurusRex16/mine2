@@ -649,3 +649,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Apr2025 22:10:48.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved too quickly! -4.406566946685402,-9.66706724457589,0.35140826258970037
 [12Apr2025 22:11:01.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was killed by Evoker using magic
 [12Apr2025 22:11:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan burned to death
+[12Apr2025 22:12:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[12Apr2025 22:12:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vindicator
+[12Apr2025 22:12:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[12Apr2025 22:12:19.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was killed by Evoker using magic
+[12Apr2025 22:12:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[12Apr2025 22:13:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Ravager
+[12Apr2025 22:13:35.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was killed by Evoker using magic
+[12Apr2025 22:13:47.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[12Apr2025 22:14:14.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was killed by Evoker using magic
+[12Apr2025 22:14:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Ravager
+[12Apr2025 22:15:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[12Apr2025 22:15:42.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was killed by Evoker using magic
+[12Apr2025 22:15:58.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[12Apr2025 22:16:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[12Apr2025 22:16:12.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vex
+[12Apr2025 22:16:22.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> putas mujeres, no hacen nada solo miran
+[12Apr2025 22:16:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was killed by Evoker using magic
+[12Apr2025 22:16:42.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 moved wrongly!
+[12Apr2025 22:16:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has completed the challenge [Hero of the Village]
+[12Apr2025 22:16:43.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has completed the challenge [Hero of the Village]
+[12Apr2025 22:16:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was doomed to fall by Vex
+[12Apr2025 22:17:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[12Apr2025 22:17:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vex
+[12Apr2025 22:20:19.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
