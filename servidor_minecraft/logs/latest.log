@@ -468,3 +468,46 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 17:03:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> joder
 [13Apr2025 17:06:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> adolfo dice que durmais
 [13Apr2025 17:07:01.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> ZZZZZ
+[13Apr2025 17:08:56.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [A Seedy Place]
+[13Apr2025 17:11:07.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:11:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> bro?
+[13Apr2025 17:11:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> son 4 por lad
+[13Apr2025 17:11:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> PORQUE
+[13Apr2025 17:11:27.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> respeta la puta base
+[13Apr2025 17:11:32.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> va a quedar feisimo
+[13Apr2025 17:11:47.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 17:12:25.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> 2 en diagonal
+[13Apr2025 17:12:28.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> 4 por lado
+[13Apr2025 17:12:55.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> te construyo la base y tu la subes?
+[13Apr2025 17:13:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> con base, me refiero al suelo
+[13Apr2025 17:13:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> contento?
+[13Apr2025 17:13:19.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> no, pq asi no es
+[13Apr2025 17:13:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> la diagonal comienza en el bloque dea ntes
+[13Apr2025 17:13:49.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[13Apr2025 17:13:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[13Apr2025 17:13:58.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:35203] logged in with entity id 7911 at (145.89618009889543, 94.5, 18.415933894528234)
+[13Apr2025 17:13:59.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 17:13:59.071] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 17:14:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> a ver
+[13Apr2025 17:14:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> hazlo
+[13Apr2025 17:14:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> te lo hago con piedra fea y tu la picas
+[13Apr2025 17:14:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> te he dado piedra guapa
+[13Apr2025 17:14:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 809.500000, 95.500000, -233.500000]
+[13Apr2025 17:15:18.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[13Apr2025 17:15:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 17:16:05.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 17:16:14.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[13Apr2025 17:16:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[13Apr2025 17:16:20.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:39415] logged in with entity id 9092 at (149.0886638004587, 95.0, 19.69999998807907)
+[13Apr2025 17:16:20.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[13Apr2025 17:16:20.548] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[13Apr2025 17:18:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> e
+[13Apr2025 17:20:19.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dec8547[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:38657) lost connection: Disconnected
+[13Apr2025 17:22:33.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 17:23:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:24:01.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:54291] logged in with entity id 11497 at (8.5, 72.0, -6.5)
+[13Apr2025 17:24:01.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 17:24:01.968] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 17:24:01.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Ice and Fire]
+[13Apr2025 17:25:16.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:25:52.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Anau]
