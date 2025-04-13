@@ -749,3 +749,33 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 19:49:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [13Apr2025 19:49:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to Johan]
 [13Apr2025 19:50:50.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -230.500000, 74.500000, 316.500000]
+[13Apr2025 19:51:21.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 19:51:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -375.500000, 93.500000, 389.500000]
+[13Apr2025 19:52:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:52:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:52:50.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=76, z=-59} BlockPos{x=127, y=76, z=-58}
+[13Apr2025 19:52:50.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=76, z=-59} BlockPos{x=127, y=76, z=-58}
+[13Apr2025 19:52:50.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=76, z=-59} BlockPos{x=127, y=76, z=-58}
+[13Apr2025 19:52:58.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:53:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:53:06.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[13Apr2025 19:53:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[13Apr2025 19:53:12.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:38593] logged in with entity id 93248 at (133.30012950749966, 77.1212968405392, 19.435504466996143)
+[13Apr2025 19:53:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 19:53:12.629] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 19:53:50.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Not Today, Thank You]
+[13Apr2025 19:55:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 20:03:52.258] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@145afb26[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:43445) lost connection: Disconnected
+[13Apr2025 20:04:02.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:44087] logged in with entity id 95950 at (124.29443609195337, 76.0, 26.100814686805474)
+[13Apr2025 20:04:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 20:04:02.252] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 20:05:53.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 20:05:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Minecraft Comes Alive]
+[13Apr2025 20:06:07.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 20:06:23.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
+[13Apr2025 20:06:51.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 20:07:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[13Apr2025 20:07:46.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 20:07:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 20:08:25.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 20:10:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
