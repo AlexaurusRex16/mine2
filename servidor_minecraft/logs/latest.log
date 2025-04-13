@@ -685,3 +685,26 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 19:20:38.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
 [13Apr2025 19:20:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [13Apr2025 19:20:49.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:20:56.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to AlexaurusRex16]
+[13Apr2025 19:21:07.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 19:21:28.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:21:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[13Apr2025 19:21:48.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[13Apr2025 19:21:48.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[13Apr2025 19:21:53.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[13Apr2025 19:21:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[13Apr2025 19:21:53.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:49027] logged in with entity id 72325 at (207.69999998807907, 65.49520087700593, 49.10458742880456)
+[13Apr2025 19:21:53.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 19:21:53.985] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 19:22:07.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:22:26.110] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36657dcd[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:44057) lost connection: Disconnected
+[13Apr2025 19:22:32.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36d4890e[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:57633) lost connection: Disconnected
+[13Apr2025 19:22:36.610] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e6f664a[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:39233) lost connection: Disconnected
+[13Apr2025 19:23:07.261] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e484023[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:43875) lost connection: Disconnected
+[13Apr2025 19:23:14.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:55343] logged in with entity id 73066 at (225.09336945409973, 73.0, 70.45455430665785)
+[13Apr2025 19:23:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 19:23:14.869] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 19:24:59.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> encontré el only de tu madre
+[13Apr2025 19:29:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
+[13Apr2025 19:29:52.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:30:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
