@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
@@ -86,6 +92,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-13 17:43:17 +0000"
     },
     "done": true
   },
@@ -179,6 +191,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-13 17:48:00 +0000",
+      "minecraft:basalt_deltas": "2025-04-13 17:54:37 +0000",
+      "minecraft:warped_forest": "2025-04-13 17:44:49 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -200,6 +220,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-13 17:51:23 +0000"
     },
     "done": true
   },
@@ -281,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-13 17:51:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -305,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
@@ -326,6 +364,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
     },
     "done": true
   },
@@ -403,6 +447,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:hoglin": "2025-04-13 17:49:32 +0000",
+      "minecraft:piglin_brute": "2025-04-13 17:50:57 +0000",
+      "minecraft:piglin": "2025-04-13 17:49:20 +0000",
       "minecraft:zombie": "2025-04-13 17:37:28 +0000"
     },
     "done": false
@@ -410,6 +457,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
     },
     "done": true
   },
@@ -422,6 +481,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },
@@ -563,9 +628,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-13 17:51:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
     },
     "done": true
   },
@@ -590,6 +679,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-13 17:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
     },
     "done": true
   },
@@ -647,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -701,9 +802,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-13 17:49:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
     },
     "done": true
   },
@@ -761,6 +874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 17:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -776,6 +895,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },
@@ -824,6 +949,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },
@@ -893,6 +1024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-04-13 17:51:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
@@ -959,6 +1096,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -995,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1019,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
@@ -1028,6 +1183,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
     },
     "done": true
   },
@@ -1103,6 +1264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
@@ -1118,6 +1285,18 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 17:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 17:45:23 +0000"
     },
     "done": true
   },
@@ -1277,6 +1456,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 17:51:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1301,6 +1486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-13 17:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-13 17:32:09 +0000"
@@ -1316,6 +1507,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-13 17:49:57 +0000"
     },
     "done": true
   },
@@ -1457,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1523,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1562,6 +1771,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-13 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-13 17:51:11 +0000"
     },
     "done": true
   },
@@ -1661,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-13 17:44:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1685,6 +1906,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-13 17:51:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-04-13 17:32:09 +0000"
@@ -1700,6 +1927,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-13 17:43:17 +0000"
     },
     "done": true
   },
@@ -1823,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-13 17:51:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1847,9 +2086,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-13 17:51:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-13 17:51:43 +0000"
     },
     "done": true
   },
@@ -1940,6 +2197,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-13 17:45:23 +0000"
     },
     "done": true
   },
@@ -2045,6 +2308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
@@ -2081,9 +2350,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
     },
     "done": true
   },
@@ -2096,6 +2377,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-13 17:45:38 +0000"
     },
     "done": true
   },
@@ -2219,6 +2506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -2267,6 +2560,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-13 17:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-13 17:43:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
@@ -2294,6 +2599,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },
@@ -2381,6 +2692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-13 17:37:52 +0000"
@@ -2411,9 +2728,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-13 17:51:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-04-13 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },
@@ -2444,6 +2773,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-13 17:49:57 +0000"
     },
     "done": true
   },
@@ -2504,6 +2839,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-13 17:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },
@@ -2573,6 +2914,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-13 17:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-13 17:38:11 +0000"
@@ -2620,6 +2967,13 @@
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-04-13 17:44:30 +0000",
+      "bread": "2025-04-13 17:43:58 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
@@ -2732,6 +3086,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-13 17:50:23 +0000"
     },
     "done": true
   },

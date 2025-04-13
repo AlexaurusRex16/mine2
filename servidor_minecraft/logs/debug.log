@@ -6086,3 +6086,34 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 17:47:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Those Were the Days]
 [13Apr2025 17:47:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [War Pigs]
 [13Apr2025 17:47:51.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Hidden in the Depths]
+[13Apr2025 17:48:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 17:48:06.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 17:48:50.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Those Were the Days]
+[13Apr2025 17:48:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 17:48:58.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:48:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Those Were the Days]
+[13Apr2025 17:49:53.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 17:50:36.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:51:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [War Pigs]
+[13Apr2025 17:51:23.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Hidden in the Depths]
+[13Apr2025 17:52:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:53:06.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 17:53:06.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 17:54:01.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 17:54:11.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 17:54:21.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 17:54:21.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was doomed to fall
+[13Apr2025 17:54:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:55:07.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 17:55:10.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Straddle My Ol' Saddle]
+[13Apr2025 17:55:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:55:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:55:50.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:55:58.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco burned to death
+[13Apr2025 17:56:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -60.500000, 78.500000, 306.500000]
+[13Apr2025 17:57:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 13.500000, 63.500000, 6.500000]
+[13Apr2025 17:57:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Magma Cube
+[13Apr2025 17:58:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Anau a server operator
+[13Apr2025 17:58:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 17:58:06.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 17:58:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to AlexaurusRex16]
