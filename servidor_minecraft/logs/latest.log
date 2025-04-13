@@ -648,3 +648,15 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 18:56:28.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [13Apr2025 18:56:28.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [13Apr2025 18:56:29.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:01:04.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 19:02:54.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:46257] logged in with entity id 59491 at (175.5926570354128, 66.0, 226.1353895463449)
+[13Apr2025 19:02:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 19:02:54.218] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 19:03:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:04:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[13Apr2025 19:05:54.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:06:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:06:58.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:07:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:07:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:08:49.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
