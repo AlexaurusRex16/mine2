@@ -1818,7 +1818,8 @@
       "minecraft:cave_spider": "2025-04-10 20:42:47 +0000",
       "minecraft:piglin": "2025-04-13 17:49:15 +0000",
       "minecraft:vex": "2025-04-11 19:36:43 +0000",
-      "minecraft:zombie": "2025-04-09 21:42:20 +0000"
+      "minecraft:zombie": "2025-04-09 21:42:20 +0000",
+      "minecraft:drowned": "2025-04-13 23:17:54 +0000"
     },
     "done": false
   },
@@ -6981,15 +6982,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-13 23:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-13 22:39:45 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-13 23:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-13 22:39:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-04-13 23:19:55 +0000"
     },
     "done": true
   },
@@ -7005,15 +7024,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-13 23:19:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
       "has_wolf": "2025-04-13 21:31:28 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-04-13 23:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-13 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-13 23:19:55 +0000"
     },
     "done": true
   },
@@ -7044,6 +7081,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-13 22:39:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-13 23:21:30 +0000"
     },
     "done": true
   },

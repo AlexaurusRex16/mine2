@@ -1021,3 +1021,29 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 23:10:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
 [13Apr2025 23:11:05.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -18.500000, 73.500000, 369.500000]
 [13Apr2025 23:13:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -242.500000, 59.500000, 344.500000]
+[13Apr2025 23:14:28.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[13Apr2025 23:15:43.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 13.500000, 63.500000, 6.500000]
+[13Apr2025 23:16:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 23:17:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[13Apr2025 23:18:09.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 1543.500000, 65.500000, 1301.500000]
+[13Apr2025 23:18:11.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was turned to stone by Gorgon
+[13Apr2025 23:18:35.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Johan) moved wrongly! 0.6422722308504591
+[13Apr2025 23:18:40.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 1543.500000, 65.500000, 1301.500000]
+[13Apr2025 23:19:23.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 23:19:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[13Apr2025 23:19:47.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 23:20:40.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was turned into gorgonzola by Gorgon
+[13Apr2025 23:21:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was turned to stone by Gorgon
+[13Apr2025 23:21:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1543.500000, 65.500000, 1299.500000]
+[13Apr2025 23:21:19.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 1543.500000, 64.500000, 1288.500000]
+[13Apr2025 23:21:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Clash of the Titans]
+[13Apr2025 23:22:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 129.500000, 77.500000, 20.500000]
+[13Apr2025 23:23:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -832.500000, 64.500000, 2797.500000]
+[13Apr2025 23:23:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -1406.500000, 65.500000, -3351.500000]
+[13Apr2025 23:23:31.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 23:23:33.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 23:23:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was turned into gorgonzola by Gorgon
+[13Apr2025 23:24:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -1405.500000, 55.500000, -3350.500000]
+[13Apr2025 23:24:11.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was turned into gorgonzola by Gorgon
+[13Apr2025 23:24:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Clash of the Titans]
+[13Apr2025 23:24:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1409.500000, 55.500000, -3349.500000]
