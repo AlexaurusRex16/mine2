@@ -836,3 +836,24 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 21:01:44.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
 [13Apr2025 21:01:48.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
 [13Apr2025 21:01:48.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[13Apr2025 21:02:20.917] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c4c9feb[id=<null>,name=paco,properties={},legacy=false] (/127.89.181.175:53997) lost connection: Disconnected
+[13Apr2025 21:02:26.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:51193] logged in with entity id 137113 at (133.07095507239228, 97.0, -0.4174598220283581)
+[13Apr2025 21:02:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 21:02:26.696] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 21:04:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 21:05:03.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[13Apr2025 21:05:03.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[13Apr2025 21:05:09.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:47057] logged in with entity id 138901 at (138.70544808111728, 82.0, 14.92952196215436)
+[13Apr2025 21:05:09.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 21:05:09.632] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 21:05:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -853.500000, 68.500000, 4186.500000]
+[13Apr2025 21:07:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 21:07:32.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[13Apr2025 21:07:32.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[13Apr2025 21:07:39.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:33943] logged in with entity id 140092 at (147.60112714966243, 95.0, 18.205579748152957)
+[13Apr2025 21:07:39.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 21:07:39.326] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 21:09:01.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:36657] logged in with entity id 140325 at (131.9150882444002, 88.0, 24.61262507405928)
+[13Apr2025 21:09:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[13Apr2025 21:09:02.027] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[13Apr2025 21:11:29.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
