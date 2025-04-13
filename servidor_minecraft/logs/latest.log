@@ -708,3 +708,44 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 19:29:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
 [13Apr2025 19:29:52.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [13Apr2025 19:30:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 19:32:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 19:33:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Enchanter]
+[13Apr2025 19:33:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:54.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:54.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:55.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:55.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:55.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:33:58.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Sweet Dreams]
+[13Apr2025 19:34:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> dormi=?ç
+[13Apr2025 19:35:27.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzz
+[13Apr2025 19:35:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:35:36.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:35:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:35:36.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:35:45.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> zzzzz
+[13Apr2025 19:36:13.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:36:23.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[13Apr2025 19:36:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[13Apr2025 19:41:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> polla mal hecga
+[13Apr2025 19:42:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 19:42:09.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 19:44:12.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:46:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 19:46:37.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Anau]
+[13Apr2025 19:46:45.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 19:46:46.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to AlexaurusRex16]
+[13Apr2025 19:46:55.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[13Apr2025 19:46:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[13Apr2025 19:47:28.601] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b792aee[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:42127) lost connection: Disconnected
+[13Apr2025 19:47:57.853] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f9a3bcb[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:38543) lost connection: Disconnected
+[13Apr2025 19:48:12.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a97b3d0[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:53737) lost connection: Disconnected
+[13Apr2025 19:48:43.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f08a844[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:38947) lost connection: Disconnected
+[13Apr2025 19:49:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:49:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to Johan]
+[13Apr2025 19:50:50.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -230.500000, 74.500000, 316.500000]

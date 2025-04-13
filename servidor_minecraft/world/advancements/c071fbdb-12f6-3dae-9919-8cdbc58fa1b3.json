@@ -1812,6 +1812,8 @@
       "minecraft:piglin_brute": "2025-04-13 17:50:02 +0000",
       "minecraft:creeper": "2025-04-10 20:35:02 +0000",
       "minecraft:evoker": "2025-04-11 19:37:46 +0000",
+      "minecraft:phantom": "2025-04-13 19:28:55 +0000",
+      "minecraft:zombified_piglin": "2025-04-13 19:44:24 +0000",
       "minecraft:witch": "2025-04-11 19:34:26 +0000",
       "minecraft:cave_spider": "2025-04-10 20:42:47 +0000",
       "minecraft:piglin": "2025-04-13 17:49:15 +0000",
@@ -6904,6 +6906,12 @@
   "securitycraft:recipes/redstone/reinforced_lever": {
     "criteria": {
       "has_cobble": "2025-04-13 18:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-13 19:46:18 +0000"
     },
     "done": true
   },
