@@ -9833,3 +9833,25 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 23:24:11.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco was turned into gorgonzola by Gorgon
 [13Apr2025 23:24:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Clash of the Titans]
 [13Apr2025 23:24:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -1409.500000, 55.500000, -3349.500000]
+[13Apr2025 23:24:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -3140.500000, 76.500000, 7051.500000]
+[13Apr2025 23:25:46.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 23:26:51.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 23:27:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 23:27:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 23:27:32.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -190.500000, 35.500000, -616.500000]
+[13Apr2025 23:27:33.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has completed the challenge [Hot Tourist Destinations]
+[13Apr2025 23:27:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Nightmare Fuel]
+[13Apr2025 23:28:06.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:28:06.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:28:39.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 23:29:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -1406.500000, 65.500000, -3351.500000]
+[13Apr2025 23:29:59.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 23:30:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 23:30:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was shot by Skeleton
+[13Apr2025 23:30:26.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -50.500000, 62.500000, -168.500000]
+[13Apr2025 23:31:24.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 129.500000, 77.500000, 20.500000]
+[13Apr2025 23:32:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -1406.500000, 65.500000, -3351.500000]
+[13Apr2025 23:33:06.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:33:06.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:33:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -4.500000, 35.500000, -492.500000]
+[13Apr2025 23:34:12.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 188.500000, 36.500000, -549.500000]

@@ -6704,12 +6704,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-13 23:27:33 +0000",
       "minecraft:nether_wastes": "2025-04-13 17:46:14 +0000",
       "minecraft:soul_sand_valley": "2025-04-13 23:06:07 +0000",
       "minecraft:basalt_deltas": "2025-04-13 17:54:06 +0000",
       "minecraft:warped_forest": "2025-04-13 17:44:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -7245,6 +7246,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-13 23:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-04-13 23:16:30 +0000"
@@ -7260,6 +7267,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-13 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-13 23:24:14 +0000"
     },
     "done": true
   },
