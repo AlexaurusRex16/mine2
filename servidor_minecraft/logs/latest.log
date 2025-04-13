@@ -779,3 +779,33 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 20:07:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
 [13Apr2025 20:08:25.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
 [13Apr2025 20:10:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 20:12:32.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 20:13:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 225.500000, -0.500000, -165.500000]
+[13Apr2025 20:15:34.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 20:16:40.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[13Apr2025 20:17:32.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[13Apr2025 20:17:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[13Apr2025 20:20:34.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 20:20:49.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
+[13Apr2025 20:21:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 20:25:31.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 20:25:34.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[13Apr2025 20:25:34.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[13Apr2025 20:26:02.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f1767e1[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:46861) lost connection: Disconnected
+[13Apr2025 20:26:06.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:48039] logged in with entity id 108289 at (138.8474750221459, 81.0, 16.42540872554364)
+[13Apr2025 20:26:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 20:26:07.027] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 20:28:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Anau]
+[13Apr2025 20:28:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 20:28:12.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 20:28:12.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 20:28:12.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 20:28:13.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[13Apr2025 20:28:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> zzzz
+[13Apr2025 20:28:23.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[13Apr2025 20:28:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[13Apr2025 20:28:29.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:35497] logged in with entity id 109261 at (171.0759843454546, 105.5, 13.298780985786992)
+[13Apr2025 20:28:29.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[13Apr2025 20:28:29.429] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[13Apr2025 20:28:35.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 225.500000, -0.500000, -165.500000]
+[13Apr2025 20:31:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]

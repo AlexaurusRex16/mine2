@@ -1968,7 +1968,8 @@
       "minecraft:zombified_piglin": "2025-04-13 19:19:05 +0000",
       "minecraft:piglin": "2025-04-13 17:49:20 +0000",
       "minecraft:enderman": "2025-04-13 18:31:31 +0000",
-      "minecraft:zombie": "2025-04-13 17:37:28 +0000"
+      "minecraft:zombie": "2025-04-13 17:37:28 +0000",
+      "minecraft:drowned": "2025-04-13 20:08:14 +0000"
     },
     "done": false
   },
@@ -4078,6 +4079,36 @@
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-04-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-04-13 20:17:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-04-13 20:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-04-13 20:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-13 20:27:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-13 20:27:27 +0000"
     },
     "done": true
   },
