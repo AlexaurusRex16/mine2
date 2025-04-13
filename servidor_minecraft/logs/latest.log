@@ -609,3 +609,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 18:37:23.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [13Apr2025 18:38:09.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
 [13Apr2025 18:38:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[13Apr2025 18:38:41.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@336260a3[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:49207) lost connection: Disconnected
+[13Apr2025 18:39:19.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@848e91b[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:59073) lost connection: Disconnected
+[13Apr2025 18:39:57.211] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a92ea35[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:49385) lost connection: Disconnected
+[13Apr2025 18:40:04.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 13.500000, 63.500000, 6.500000]
+[13Apr2025 18:40:29.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37ae681b[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:45645) lost connection: Disconnected
+[13Apr2025 18:40:39.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:43261] logged in with entity id 45376 at (135.58141745129427, 77.0, 18.59909027244592)
+[13Apr2025 18:40:39.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 18:40:39.241] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 18:46:10.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> le gusta que le peguen
+[13Apr2025 18:46:20.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]

@@ -6499,9 +6499,21 @@
     },
     "done": false
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-04-13 18:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-04-13 17:47:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
@@ -6514,6 +6526,18 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-04-13 17:49:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-04-13 18:46:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
@@ -6601,6 +6625,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-04-13 18:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-13 17:49:41 +0000"
@@ -6610,6 +6640,12 @@
   "securitycraft:recipes/redstone/reinforced_stone_button": {
     "criteria": {
       "has_block": "2025-04-13 18:28:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
@@ -6655,9 +6691,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-04-13 18:46:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/scanner_door_item": {
     "criteria": {
       "has_reinforced_door": "2025-04-13 18:22:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
@@ -6676,6 +6724,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-13 17:48:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
@@ -6736,6 +6790,12 @@
   "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
     "criteria": {
       "has_item": "2025-04-13 18:28:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
@@ -6802,6 +6862,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 17:49:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-04-13 18:46:37 +0000"
     },
     "done": true
   },
