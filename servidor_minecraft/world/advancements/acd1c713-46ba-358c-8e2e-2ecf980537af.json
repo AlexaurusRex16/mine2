@@ -463,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-13 18:32:39 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
@@ -516,6 +522,7 @@
       "minecraft:hoglin": "2025-04-13 17:49:32 +0000",
       "minecraft:piglin_brute": "2025-04-13 17:50:57 +0000",
       "minecraft:piglin": "2025-04-13 17:49:20 +0000",
+      "minecraft:enderman": "2025-04-13 18:31:31 +0000",
       "minecraft:zombie": "2025-04-13 17:37:28 +0000"
     },
     "done": false
@@ -1303,6 +1310,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-04-13 18:32:39 +0000"
     },
     "done": true
   },
@@ -2113,6 +2126,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-13 17:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-13 18:32:39 +0000"
     },
     "done": true
   },

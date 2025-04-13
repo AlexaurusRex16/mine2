@@ -593,3 +593,19 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 18:14:46.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 13.500000, 63.500000, 6.500000]
 [13Apr2025 18:15:33.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> le gusta que le peguen
 [13Apr2025 18:16:33.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Diamonds!]
+[13Apr2025 18:18:35.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> por la beca
+[13Apr2025 18:18:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 18:18:51.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> a mi hermano le han dado 1,7k y no le da nada a mi madre
+[13Apr2025 18:18:56.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> q ella pago la uni y todo eso
+[13Apr2025 18:19:06.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> y lg con algo de la deuda de su pc ç
+[13Apr2025 18:19:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> q lo pago mi madre y ella le cobraba con las semanas
+[13Apr2025 18:19:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> y mi hermano dice q ya esta pagado
+[13Apr2025 18:27:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Hidden in the Depths]
+[13Apr2025 18:30:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 18:31:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 18:31:54.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 18:34:41.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to AlexaurusRex16]
+[13Apr2025 18:35:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 18:37:23.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 18:38:09.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[13Apr2025 18:38:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game

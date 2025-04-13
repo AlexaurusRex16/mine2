@@ -6688,6 +6688,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 18:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-13 17:46:14 +0000",
@@ -6695,6 +6701,18 @@
       "minecraft:warped_forest": "2025-04-13 17:44:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-13 18:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-13 18:27:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
@@ -6735,6 +6753,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-13 17:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-13 18:27:51 +0000"
     },
     "done": true
   },
