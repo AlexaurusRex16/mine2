@@ -3450,6 +3450,7 @@
       "minecraft:spider": "2025-04-09 22:50:05 +0000",
       "minecraft:creeper": "2025-04-09 22:10:41 +0000",
       "minecraft:evoker": "2025-04-12 22:10:13 +0000",
+      "minecraft:zombified_piglin": "2025-04-13 22:11:40 +0000",
       "minecraft:witch": "2025-04-12 22:02:16 +0000",
       "minecraft:cave_spider": "2025-04-10 20:46:02 +0000",
       "minecraft:silverfish": "2025-04-09 22:11:38 +0000",
@@ -5059,9 +5060,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-13 19:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
     },
     "done": true
   },
@@ -5078,6 +5109,12 @@
       "minecraft:warped_forest": "2025-04-13 17:44:13 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
@@ -5118,6 +5155,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 18:33:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
     },
     "done": true
   },
@@ -5163,6 +5212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-13 18:33:08 +0000"
@@ -5187,6 +5242,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 18:33:08 +0000"
@@ -5199,15 +5260,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-13 18:34:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
       "has_item": "2025-04-13 19:56:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
     },
     "done": true
   },
@@ -5265,6 +5344,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-13 18:33:08 +0000"
@@ -5313,6 +5398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-13 18:33:08 +0000"
@@ -5331,15 +5422,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-13 18:34:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-04-13 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
     },
     "done": true
   },
@@ -5361,9 +5470,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-04-13 18:34:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
     },
     "done": true
   },
@@ -5373,15 +5500,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 18:33:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-13 18:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
     },
     "done": true
   },
@@ -5421,6 +5572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-13 21:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-04-13 17:48:58 +0000"
@@ -5430,6 +5587,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-04-13 18:33:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-04-13 21:54:37 +0000"
     },
     "done": true
   },

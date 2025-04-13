@@ -879,3 +879,86 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 21:32:07.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 356.500000, 63.500000, 137.500000]
 [13Apr2025 21:32:28.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
 [13Apr2025 21:32:32.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[13Apr2025 21:33:31.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[13Apr2025 21:36:13.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 21:36:23.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[13Apr2025 21:36:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 21:36:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 21:37:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 21:37:35.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was doomed to fall by paco
+[13Apr2025 21:38:02.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:02.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=38, z=107} BlockPos{x=52, y=39, z=106}
+[13Apr2025 21:38:25.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[13Apr2025 21:38:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 21:39:06.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[13Apr2025 21:39:24.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 21:39:29.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was doomed to fall by paco
+[13Apr2025 21:40:45.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Killed paco]
+[13Apr2025 21:41:19.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:19.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:19.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:19.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:20.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=60, z=-10} BlockPos{x=32, y=59, z=-9}
+[13Apr2025 21:41:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 21:41:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 21:41:47.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=41, z=13} BlockPos{x=41, y=42, z=13}
+[13Apr2025 21:41:47.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=41, z=13} BlockPos{x=41, y=42, z=13}
+[13Apr2025 21:41:47.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=41, z=13} BlockPos{x=41, y=42, z=13}
+[13Apr2025 21:41:50.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=38, z=12} BlockPos{x=46, y=37, z=12}
+[13Apr2025 21:42:04.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=26, z=21} BlockPos{x=56, y=28, z=22}
+[13Apr2025 21:42:44.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=22, z=28} BlockPos{x=40, y=22, z=27}
+[13Apr2025 21:43:26.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 21:43:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Killed Johan]
+[13Apr2025 21:43:54.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 21:44:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was killed
+[13Apr2025 21:44:06.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved too quickly! 0.526560134070678,-11.2134039128713,-0.23191640040660566
+[13Apr2025 21:44:38.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[13Apr2025 21:47:29.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:30.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=16, z=-2} BlockPos{x=-88, y=15, z=-2}
+[13Apr2025 21:47:47.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved wrongly!
+[13Apr2025 21:48:12.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=16, z=-58} BlockPos{x=-30, y=16, z=-58}
+[13Apr2025 21:48:12.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=16, z=-58} BlockPos{x=-30, y=16, z=-58}
+[13Apr2025 21:48:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 21:48:56.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[13Apr2025 21:51:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 21:52:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 541.500000, 67.500000, 151.500000]
+[13Apr2025 21:53:33.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 22:02:14.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 22:02:17.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -816.500000, 110.500000, -666.500000]
+[13Apr2025 22:04:05.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 22:08:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[13Apr2025 22:08:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[13Apr2025 22:08:42.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[13Apr2025 22:12:12.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[13Apr2025 22:12:36.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[13Apr2025 22:12:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[13Apr2025 22:12:42.252] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2374eba1[id=<null>,name=AlexaurusRex16,properties={},legacy=false] (/127.207.162.92:35795) lost connection: Disconnected
+[13Apr2025 22:12:47.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:47451] logged in with entity id 168568 at (165.97956483339394, 117.0625, 18.92500001192093)
+[13Apr2025 22:12:47.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[13Apr2025 22:12:47.524] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
