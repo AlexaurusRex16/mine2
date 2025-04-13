@@ -6507,12 +6507,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-13 23:36:30 +0000",
       "minecraft:nether_wastes": "2025-04-13 17:46:21 +0000",
       "minecraft:soul_sand_valley": "2025-04-13 17:58:42 +0000",
       "minecraft:basalt_deltas": "2025-04-13 17:53:45 +0000",
       "minecraft:warped_forest": "2025-04-13 17:44:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
