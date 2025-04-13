@@ -6975,9 +6975,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-13 22:27:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
       "has_wolf": "2025-04-13 21:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-13 22:27:00 +0000"
     },
     "done": true
   },
