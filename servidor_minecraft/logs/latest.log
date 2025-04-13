@@ -511,3 +511,50 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 17:24:01.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Ice and Fire]
 [13Apr2025 17:25:16.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
 [13Apr2025 17:25:52.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Anau]
+[13Apr2025 17:28:04.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:28:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> por gilipollas
+[13Apr2025 17:29:04.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:29:20.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> duro
+[13Apr2025 17:29:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was doomed to fall by paco
+[13Apr2025 17:29:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:29:47.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:30:09.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Splintering II]
+[13Apr2025 17:30:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [A Flaming Sword]
+[13Apr2025 17:32:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Stone Age]
+[13Apr2025 17:33:54.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Book of Monsters]
+[13Apr2025 17:33:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Would you Like to Know More?]
+[13Apr2025 17:34:22.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[13Apr2025 17:34:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[13Apr2025 17:35:58.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Acquire Hardware]
+[13Apr2025 17:36:25.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:42781] logged in with entity id 13810 at (136.44945565929058, 82.0, 15.540007811629605)
+[13Apr2025 17:36:25.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[13Apr2025 17:36:25.406] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[13Apr2025 17:37:28.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Monster Hunter]
+[13Apr2025 17:37:34.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 17:38:05.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Isn't It Iron Pick]
+[13Apr2025 17:39:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> jueguete sexual
+[13Apr2025 17:40:03.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[13Apr2025 17:40:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> arnau vienes?
+[13Apr2025 17:41:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> ya?
+[13Apr2025 17:41:54.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> venis?
+[13Apr2025 17:42:30.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> si
+[13Apr2025 17:42:40.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> me voy a tu casa
+[13Apr2025 17:43:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> como
+[13Apr2025 17:43:16.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> venis al portal o q maricones
+[13Apr2025 17:43:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> no
+[13Apr2025 17:43:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Anau to paco]
+[13Apr2025 17:43:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Anau to paco]
+[13Apr2025 17:43:54.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> puedes no representar la violencia de tu casa en el juego?
+[13Apr2025 17:44:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [We Need to Go Deeper]
+[13Apr2025 17:44:03.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[13Apr2025 17:44:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [We Need to Go Deeper]
+[13Apr2025 17:44:12.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [We Need to Go Deeper]
+[13Apr2025 17:44:40.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:44:48.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [We Need to Go Deeper]
+[13Apr2025 17:44:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was doomed to fall by paco
+[13Apr2025 17:45:04.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 17:47:17.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Those Were the Days]
+[13Apr2025 17:47:29.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 17:47:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Those Were the Days]
+[13Apr2025 17:47:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [War Pigs]
+[13Apr2025 17:47:51.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Hidden in the Depths]
