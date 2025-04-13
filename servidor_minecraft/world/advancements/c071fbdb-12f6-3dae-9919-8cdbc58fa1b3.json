@@ -219,7 +219,8 @@
       "baked_potato": "2025-04-09 21:40:11 +0000",
       "apple": "2025-04-11 19:21:44 +0000",
       "bread": "2025-04-09 21:27:07 +0000",
-      "cooked_chicken": "2025-04-09 23:20:26 +0000"
+      "cooked_chicken": "2025-04-09 23:20:26 +0000",
+      "carrot": "2025-04-13 16:51:46 +0000"
     },
     "done": false
   },
@@ -6468,9 +6469,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "killed_by": "2025-04-12 20:33:16 +0000"
+      "enchanted_item": "2025-04-12 20:22:01 +0000"
     },
     "done": true
   },
@@ -6480,9 +6481,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "enchanted_item": "2025-04-12 20:22:01 +0000"
+      "killed_by": "2025-04-12 20:33:16 +0000"
     },
     "done": true
   },
