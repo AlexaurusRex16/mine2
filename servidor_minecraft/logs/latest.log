@@ -583,3 +583,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 17:57:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Magma Cube
 [13Apr2025 17:58:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Anau a server operator
 [13Apr2025 17:58:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to AlexaurusRex16]
+[13Apr2025 17:58:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -223.500000, 75.500000, 224.500000]
+[13Apr2025 18:01:20.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[13Apr2025 18:01:39.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 18:05:30.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> 7777
