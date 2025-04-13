@@ -109,7 +109,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-04-13 17:26:30 +0000"
+      "minecraft:river": "2025-04-13 17:26:30 +0000",
+      "minecraft:forest": "2025-04-13 18:52:29 +0000"
     },
     "done": false
   },
