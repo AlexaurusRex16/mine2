@@ -5085,6 +5085,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-13 18:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-13 17:44:12 +0000"

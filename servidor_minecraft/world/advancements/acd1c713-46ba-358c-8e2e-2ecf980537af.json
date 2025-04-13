@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
@@ -56,6 +68,12 @@
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-13 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -119,6 +137,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/yellow_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
@@ -170,6 +200,12 @@
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -229,6 +265,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -238,6 +286,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
@@ -334,6 +388,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -436,6 +496,12 @@
   "mca:recipes/decorations/orange_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
@@ -580,6 +646,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -682,6 +754,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
@@ -712,6 +796,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -721,6 +817,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -793,6 +895,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-13 17:37:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
@@ -982,6 +1090,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1072,6 +1186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-13 17:38:11 +0000"
@@ -1105,6 +1225,12 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-04-13 17:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
@@ -1177,6 +1303,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -1258,6 +1390,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-04-13 17:32:09 +0000"
@@ -1288,6 +1426,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/brown_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 17:42:18 +0000"
@@ -1312,6 +1456,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
@@ -1333,6 +1489,18 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-13 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-13 18:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
@@ -1444,6 +1612,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1519,6 +1693,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -1612,6 +1792,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -1624,9 +1810,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-13 17:42:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -1669,6 +1867,18 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -1753,6 +1963,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -1966,6 +2182,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_oak_planks": "2025-04-13 17:33:46 +0000"
@@ -2038,6 +2260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
@@ -2059,6 +2287,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 17:42:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -2149,6 +2383,12 @@
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-04-13 17:27:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -2254,6 +2494,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -2290,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-13 17:37:52 +0000"
@@ -2299,6 +2551,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -2326,9 +2584,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-13 17:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -2347,6 +2617,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -2383,6 +2659,18 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-13 17:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
@@ -2650,6 +2938,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_warped_crib": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -2719,6 +3013,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-13 17:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-04-13 18:18:05 +0000"
     },
     "done": true
   },
@@ -2848,6 +3148,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-13 17:32:09 +0000"
@@ -2944,6 +3250,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-13 18:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-13 17:38:11 +0000"
@@ -3005,6 +3317,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-04-13 18:18:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-04-13 17:33:46 +0000"
@@ -3056,6 +3374,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-13 18:16:33 +0000"
     },
     "done": true
   },
