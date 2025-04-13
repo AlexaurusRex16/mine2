@@ -158,6 +158,7 @@
       "minecraft:pillager": "2025-04-10 00:19:46 +0000",
       "minecraft:skeleton": "2025-04-09 22:12:09 +0000",
       "minecraft:ravager": "2025-04-12 22:04:35 +0000",
+      "minecraft:ghast": "2025-04-13 23:08:06 +0000",
       "minecraft:hoglin": "2025-04-13 17:48:14 +0000",
       "minecraft:vindicator": "2025-04-10 00:48:47 +0000",
       "minecraft:spider": "2025-04-09 21:29:02 +0000",
@@ -6704,6 +6705,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-13 17:46:14 +0000",
+      "minecraft:soul_sand_valley": "2025-04-13 23:06:07 +0000",
       "minecraft:basalt_deltas": "2025-04-13 17:54:06 +0000",
       "minecraft:warped_forest": "2025-04-13 17:44:08 +0000"
     },
@@ -7219,6 +7221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-13 23:06:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-04-13 22:28:19 +0000"
@@ -7228,6 +7236,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-13 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-13 23:06:40 +0000"
     },
     "done": true
   },
