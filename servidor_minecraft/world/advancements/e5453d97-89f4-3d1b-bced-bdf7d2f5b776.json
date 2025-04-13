@@ -7213,6 +7213,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 22:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-04-13 22:28:19 +0000"
