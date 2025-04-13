@@ -660,3 +660,28 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Apr2025 19:07:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
 [13Apr2025 19:07:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [13Apr2025 19:08:49.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 130.500000, 77.500000, 17.500000]
+[13Apr2025 19:10:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[13Apr2025 19:12:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> alex
+[13Apr2025 19:12:26.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que te lo diga el laguna
+[13Apr2025 19:12:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> primero construí mi casa en el suelo
+[13Apr2025 19:15:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[13Apr2025 19:15:31.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[13Apr2025 19:15:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[13Apr2025 19:15:36.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:56507] logged in with entity id 68278 at (130.33754224038543, 88.0, 21.11275446495062)
+[13Apr2025 19:15:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[13Apr2025 19:15:36.899] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[13Apr2025 19:18:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:05.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:09.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:51.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[13Apr2025 19:19:58.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Killed paco]
+[13Apr2025 19:20:04.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:20:15.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:20:16.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau has made the advancement [Pic-A-Nic Basket?]
+[13Apr2025 19:20:22.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:20:38.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[13Apr2025 19:20:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[13Apr2025 19:20:49.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
