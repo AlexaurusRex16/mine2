@@ -94,3 +94,20 @@
 [14Apr2025 00:55:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [14Apr2025 00:55:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
 [14Apr2025 00:56:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported AlexaurusRex16 to paco]
+[14Apr2025 00:58:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Killed paco]
+[14Apr2025 00:58:59.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[14Apr2025 00:58:59.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[14Apr2025 00:59:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported AlexaurusRex16 to paco]
+[14Apr2025 00:59:32.754] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e7e7f0[id=<null>,name=Johan,properties={},legacy=false] (/127.125.122.202:60585) lost connection: Disconnected
+[14Apr2025 00:59:36.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:35065] logged in with entity id 229220 at (125.93582786041402, 76.0, 18.384819372500623)
+[14Apr2025 00:59:36.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[14Apr2025 00:59:36.866] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[14Apr2025 01:00:14.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[14Apr2025 01:00:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[14Apr2025 01:01:18.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[14Apr2025 01:02:21.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[14Apr2025 01:03:49.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> buenas noches
+[14Apr2025 01:03:50.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[14Apr2025 01:03:50.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[14Apr2025 01:05:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Gave 64 [Nether Brick Stairs] to AlexaurusRex16]
+[14Apr2025 01:06:55.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Creative Mode]
