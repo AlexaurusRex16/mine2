@@ -1818,6 +1818,7 @@
       "minecraft:witch": "2025-04-11 19:34:26 +0000",
       "minecraft:cave_spider": "2025-04-10 20:42:47 +0000",
       "minecraft:piglin": "2025-04-13 17:49:15 +0000",
+      "minecraft:enderman": "2025-04-14 00:42:47 +0000",
       "minecraft:vex": "2025-04-11 19:36:43 +0000",
       "minecraft:zombie": "2025-04-09 21:42:20 +0000",
       "minecraft:drowned": "2025-04-13 23:17:54 +0000"
@@ -3856,7 +3857,8 @@
     "criteria": {
       "sweet_berries": "2025-04-09 23:32:35 +0000",
       "tomato": "2025-04-10 00:18:54 +0000",
-      "potato": "2025-04-10 00:47:18 +0000"
+      "potato": "2025-04-10 00:47:18 +0000",
+      "nether_wart": "2025-04-14 00:39:12 +0000"
     },
     "done": false
   },
@@ -7014,6 +7016,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 00:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-14 00:10:50 +0000"
@@ -7068,6 +7076,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-04-14 00:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-04-14 00:30:40 +0000"
@@ -7077,6 +7091,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-14 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 00:51:06 +0000"
     },
     "done": true
   },
@@ -7152,6 +7172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-14 00:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-13 22:37:23 +0000"
@@ -7173,6 +7199,18 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-14 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 00:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-14 00:39:12 +0000"
     },
     "done": true
   },
@@ -7236,6 +7274,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-14 00:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-14 00:10:50 +0000"
@@ -7248,6 +7292,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 00:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-14 00:10:50 +0000"
@@ -7257,6 +7307,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-13 22:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-04-14 00:39:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-14 00:39:12 +0000"
     },
     "done": true
   },
