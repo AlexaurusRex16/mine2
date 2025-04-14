@@ -5,3 +5,17 @@
 [14Apr2025 00:03:53.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
 [14Apr2025 00:03:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 fell from a high place
 [14Apr2025 00:04:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[14Apr2025 00:06:25.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
+[14Apr2025 00:06:27.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[14Apr2025 00:06:35.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[14Apr2025 00:09:12.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[14Apr2025 00:11:15.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 1327.500000, -31.500000, 1253.500000]
+[14Apr2025 00:11:15.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[14Apr2025 00:11:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzz
+[14Apr2025 00:11:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[14Apr2025 00:12:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[14Apr2025 00:12:17.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 121.500000, 76.500000, 15.500000]
+[14Apr2025 00:13:24.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 1327.500000, -31.500000, 1253.500000]
+[14Apr2025 00:13:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 1446.500000, -34.500000, 1185.500000]
+[14Apr2025 00:14:00.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[14Apr2025 00:14:51.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Ghost! Ghost! Toast?]
