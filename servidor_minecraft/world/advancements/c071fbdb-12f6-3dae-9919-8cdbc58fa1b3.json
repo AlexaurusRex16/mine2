@@ -1806,6 +1806,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-10 00:20:29 +0000",
+      "minecraft:blaze": "2025-04-14 14:11:43 +0000",
       "minecraft:skeleton": "2025-04-09 21:53:01 +0000",
       "minecraft:hoglin": "2025-04-13 17:48:31 +0000",
       "minecraft:vindicator": "2025-04-10 00:20:27 +0000",
@@ -1816,6 +1817,7 @@
       "minecraft:phantom": "2025-04-13 19:28:55 +0000",
       "minecraft:zombified_piglin": "2025-04-13 19:44:24 +0000",
       "minecraft:witch": "2025-04-11 19:34:26 +0000",
+      "minecraft:wither_skeleton": "2025-04-14 14:12:12 +0000",
       "minecraft:cave_spider": "2025-04-10 20:42:47 +0000",
       "minecraft:piglin": "2025-04-13 17:49:15 +0000",
       "minecraft:enderman": "2025-04-14 00:42:47 +0000",
@@ -7343,6 +7345,24 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-04-14 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-14 14:11:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-04-14 13:58:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-04-14 13:58:10 +0000"
     },
     "done": true
   },
