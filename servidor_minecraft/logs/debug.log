@@ -9931,3 +9931,19 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 00:23:08.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Apr2025 00:23:08.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Apr2025 00:26:04.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Spectator Mode]
+[14Apr2025 00:26:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[14Apr2025 00:26:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
+[14Apr2025 00:27:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was blown up by Creeper
+[14Apr2025 00:27:30.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 153.500000, 71.500000, -170.500000]
+[14Apr2025 00:28:08.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:28:08.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:28:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set the weather to clear]
+[14Apr2025 00:28:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set the time to 1000]
+[14Apr2025 00:30:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[14Apr2025 00:30:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was blown up by Creeper
+[14Apr2025 00:30:20.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[14Apr2025 00:30:20.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved too quickly! 2.04298132144001,0.7461092740512356,-9.914068173756462
+[14Apr2025 00:30:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 1418.500000, -32.500000, 1109.500000]
+[14Apr2025 00:33:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[14Apr2025 00:33:12.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:33:12.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

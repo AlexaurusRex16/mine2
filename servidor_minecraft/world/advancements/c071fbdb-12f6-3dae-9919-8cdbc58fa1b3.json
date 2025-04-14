@@ -217,6 +217,7 @@
       "sweet_berries": "2025-04-09 23:32:37 +0000",
       "cooked_beef": "2025-04-09 22:46:45 +0000",
       "baked_potato": "2025-04-09 21:40:11 +0000",
+      "beef": "2025-04-14 00:27:38 +0000",
       "apple": "2025-04-11 19:21:44 +0000",
       "bread": "2025-04-09 21:27:07 +0000",
       "cooked_chicken": "2025-04-09 23:20:26 +0000",
@@ -7055,11 +7056,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-14 00:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-04-14 00:15:10 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-04-14 00:30:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -7094,6 +7107,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-13 22:37:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-14 00:30:50 +0000"
     },
     "done": true
   },
@@ -7205,6 +7224,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-04-14 00:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-14 00:10:50 +0000"
@@ -7238,6 +7263,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-04-13 23:21:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-14 00:30:50 +0000"
     },
     "done": true
   },
