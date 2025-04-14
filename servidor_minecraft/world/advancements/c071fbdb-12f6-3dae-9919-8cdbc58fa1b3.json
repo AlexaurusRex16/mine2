@@ -7019,6 +7019,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 00:01:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 00:01:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 00:01:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-13 22:37:23 +0000"
@@ -7028,6 +7046,12 @@
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2025-04-13 23:19:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-04-14 00:01:04 +0000"
     },
     "done": true
   },
@@ -7052,6 +7076,12 @@
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2025-04-13 23:19:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 00:01:04 +0000"
     },
     "done": true
   },
